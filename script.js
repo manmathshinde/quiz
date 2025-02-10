@@ -189,7 +189,7 @@ function checkAnswer() {
             learnedQuestions.push(question.question);
             questions.splice(currentQuestionIndex, 1);
         }
-        speakQuestion(correctAnswer);
+        speakQuestion(question.answer);
         saveProgress();
         saveScore();
         showFeedback(true);
