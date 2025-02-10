@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Homepage - Test Your Knowledge</title>
+    <meta name="description" content="Welcome to the Quiz Homepage. Start your quiz now and test your knowledge!">
+    <meta property="og:title" content="Quiz Homepage - Test Your Knowledge">
+    <meta property="og:description" content="Welcome to the Quiz Homepage. Start your quiz now and test your knowledge!">
+    <meta property="og:image" content="quiz-image.jpg">
+    <meta property="og:url" content="https://yourwebsite.com/quiz-homepage.html">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,300&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #72c6f3, #8e7272);
+            margin: 0;
+            padding: 0;
+            animation: fadeIn 1s ease-in-out;
+        }
+        
+        main.container {
+            background: linear-gradient(135deg, #49c5e563, #f4d2d2);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            animation: slideIn 1s ease-in-out;
+        }
+        
+        input,
+        select,
+        button {
+            margin: 10px 0;
+            padding: 10px;
+            width: -webkit-fill-available;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            transition: transform 0.3s;
+        }
+        
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        
+        @keyframes slideIn {
+            from {
+                transform: translateY(-50px);
+            }
+            to {
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes bounce {
+            0%,
+            20%,
+            50%,
+            80%,
+            100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-10px);
+            }
+            60% {
+                transform: translateY(-5px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="container">
+        <h1>HOLA AMIGOS!!</h1>
+        <form action="quiz-homepage.html" method="get">
+            <input type="text" name="username" placeholder="Enter your name" required>
+            <select name="quiz_type" required>
+                <option value="spanish_to_english">Spanish to English</option>
+            </select>
+            <select name="level" required>
+                <option value="" disabled selected>Level</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+            </select>
+            <button type="submit">Start Quiz</button>
+        </form>
+    </main>
+</body>
+
+</html>

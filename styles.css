@@ -1,0 +1,288 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #72c6f3, #8e7272);
+    color: #333;
+    margin: 0;
+    padding: 0;
+    animation: fadeIn 1s ease-in-out;
+}
+
+#app {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: linear-gradient(135deg, #49c5e563, #f4d2d2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+    animation: slideIn 1s ease-in-out;
+    font-family: "Lato", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h1 {
+    color: #000000;
+    animation: bounce 1s infinite;
+    font-family: "Lato", serif;
+    font-weight: 700;
+    font-style: normal;
+    animation-play-state: paused;
+}
+
+#game {
+    margin-top: 20px;
+}
+
+#user-greeting {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-family: "Lato", serif;
+    font-weight: 300;
+    font-style: italic;
+    color: #3f1c47fa;
+}
+
+#question {
+    font-size: 26px;
+    margin-bottom: 32px;
+    /* border: 2px solid #13161a45;
+    padding: 7px;
+    border-radius: 26px; */
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    /* Position the tooltip above the text */
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+button {
+    background: linear-gradient(135deg, #4030713d, #ffd6db40);
+    color: rgb(0 9 68);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #2683e71f, #94eae4b0);
+    color: #ffffff;
+    transform: scale(1.05);
+}
+
+#options {
+    border: 2px solid #13161a45;
+    padding: 7px;
+    /* border-radius: 26px; */
+    margin: 5px;
+}
+
+#options button {
+    margin: 5px;
+}
+
+#selected-options button {
+    margin: 5px;
+    background: linear-gradient(135deg, #7251b95c, #37c8cc33);
+    color: #ffffff;
+}
+
+#feedback {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tick {
+    color: rgb(8, 233, 8);
+}
+
+.cross {
+    color: rgb(201, 107, 107);
+}
+
+#scoreboard,
+#lifelines,
+#currentscore {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 5px;
+    font-family: "Lato", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#lifelines {
+    background: linear-gradient(90deg, #817876, #870303);
+    background-clip: inherit;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#currentscore {
+    border: 2px solid #13161a45;
+    padding: 7px;
+    /* border-radius: 26px; */
+    margin: 5px;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+#read-again-button {
+    background-color: #ffc107;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+#read-again-button:hover {
+    background-color: #e0a800;
+}
+
+#mute-button {
+    background: linear-gradient(135deg, #1898ff29, #7610100d);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+#mute-button:hover {
+    background-color: #c82333;
+}
+
+
+/* Change the background color of the submit button */
+
+#submit-button {
+    background: linear-gradient(135deg, #4700fb33, #a0ffcf54);
+    color: #0f103fa6;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+#submit-button:hover {
+    background-color: #fcfcfc;
+}
+
+#answer {
+    filter: blur(5px);
+    cursor: pointer;
+    transition: filter 0.3s ease;
+}
+
+#answer.revealed {
+    filter: none;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-50px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes bounce {
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+#line {
+    position: absolute;
+    background-color: black;
+    height: 1px;
+    /* Adjust the thickness here */
+    width: 248px;
+    top: 136px;
+    left: 358px;
+}
+
+h1::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    width: 32%;
+    height: 2px;
+    background-color: black;
+    left: 34%;
+}
