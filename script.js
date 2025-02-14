@@ -20,6 +20,10 @@ let voiceName = null;
 function loadQuestions() {
 
     urlParams = new URLSearchParams(window.location.search);
+
+    if (!urlParams.get('level') || !urlParams.get('username')) {
+        window.location.href = 'start.html';
+    }
     level = urlParams.get('level');
 
     fetch(level + '_data.json')
@@ -178,7 +182,7 @@ function deselectOption(button) {
 
 function checkAnswer() {
     const question = questions[currentQuestionIndex];
-    const correctAnswer = question.answerarray;
+    const correctAnswer = question.answer;
     if (JSON.stringify(selectedOptions) === JSON.stringify(correctAnswer)) {
         if (!isMuted) {
             audio.play();
@@ -189,7 +193,7 @@ function checkAnswer() {
             learnedQuestions.push(question.question);
             questions.splice(currentQuestionIndex, 1);
         }
-        speakQuestion(question.answer);
+        speakQuestion(correctAnswer);
         saveProgress();
         saveScore();
         showFeedback(true);
@@ -279,6 +283,7 @@ function getVoice() {
 }
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('mute-button').innerText = isMuted ? 'Unmute' : 'Mute';
+    checkSession()
     loadQuestions()
     getVoice();
 });
@@ -286,3 +291,26 @@ document.getElementById('answer').addEventListener('click', function() {
     speakQuestion(this.innerHTML)
     this.classList.toggle('revealed');
 });
+
+function getQueryParams() {
+    const params = new URLSearchParams(window.location.search);
+    return {
+        username: params.get('username'),
+        // Add other required query parameters here
+    };
+}
+
+// Check session
+function checkSession() {
+    const lastVisit = sessionStorage.getItem('lastVisit');
+    const now = new Date().getTime();
+    const oneDay = 24 * 60 * 60 * 1000; // One day in milliseconds
+
+    if (lastVisit ===null || (lastVisit && (now - lastVisit > oneDay))) {
+        // Redirect to start.html if the last visit was more than a day ago
+        window.location.href = 'start.html';
+    } else {
+        // Update the last visit time
+        sessionStorage.setItem('lastVisit', now);
+    }
+}
