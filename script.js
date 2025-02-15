@@ -193,7 +193,7 @@ function checkAnswer() {
             learnedQuestions.push(question.question);
             questions.splice(currentQuestionIndex, 1);
         }
-        speakQuestion(question.answer);
+        
         saveProgress();
         saveScore();
         showFeedback(true);
@@ -208,9 +208,10 @@ function checkAnswer() {
             lifelines = 5;
 
         }
-        speakQuestion(correctAnswer);
+        
         showFeedback(false);
     }
+    speakQuestion(question.answer);
     currentQuestionIndex = (currentQuestionIndex + 1) % questions.length;
     loadScore();
     loadQuestion();
