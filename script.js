@@ -182,7 +182,7 @@ function deselectOption(button) {
 
 function checkAnswer() {
     const question = questions[currentQuestionIndex];
-    const correctAnswer = question.answer;
+    const correctAnswer = question.options;
     if (JSON.stringify(selectedOptions) === JSON.stringify(correctAnswer)) {
         if (!isMuted) {
             audio.play();
@@ -193,7 +193,7 @@ function checkAnswer() {
             learnedQuestions.push(question.question);
             questions.splice(currentQuestionIndex, 1);
         }
-        speakQuestion(correctAnswer);
+        speakQuestion(question.answer);
         saveProgress();
         saveScore();
         showFeedback(true);
