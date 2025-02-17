@@ -22,7 +22,7 @@ function loadQuestions() {
     urlParams = new URLSearchParams(window.location.search);
 
     if (!urlParams.get('level') || !urlParams.get('username')) {
-        window.location.href = 'start.html';
+        window.location.href = 'index.html';
     }
     level = urlParams.get('level');
 
@@ -308,8 +308,8 @@ function checkSession() {
     const oneDay = 24 * 60 * 60 * 1000; // One day in milliseconds
 
     if (lastVisit ===null || (lastVisit && (now - lastVisit > oneDay))) {
-        // Redirect to start.html if the last visit was more than a day ago
-        window.location.href = 'start.html';
+        // Redirect to index.html if the last visit was more than a day ago
+        window.location.href = 'index.html';
     } else {
         // Update the last visit time
         sessionStorage.setItem('lastVisit', now);
