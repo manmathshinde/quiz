@@ -1,0 +1,8868 @@
+[
+  {
+    "question": "once",
+    "answer": "una vez",
+    "answerarray": [
+      "una",
+      "vez"
+    ],
+    "options": [
+      "una",
+      "vez"
+    ]
+  },
+  {
+    "question": "two times",
+    "answer": "dos veces",
+    "answerarray": [
+      "dos",
+      "veces"
+    ],
+    "options": [
+      "dos",
+      "veces"
+    ]
+  },
+  {
+    "question": "I’m going to do it seven times.",
+    "answer": "Voy a hacerlo siete veces.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "hacerlo",
+      "siete",
+      "veces."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "hacerlo",
+      "siete",
+      "veces."
+    ]
+  },
+  {
+    "question": "I'm going to need the car three times tomorrow.",
+    "answer": "Voy a necesitar el coche tres veces mañana.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "necesitar",
+      "el",
+      "coche",
+      "tres",
+      "veces",
+      "mañana."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "necesitar",
+      "el",
+      "coche",
+      "tres",
+      "veces",
+      "mañana."
+    ]
+  },
+  {
+    "question": "I don’t understand why he wants to see it twice.",
+    "answer": "No entiendo por qué quiere verlo dos veces.",
+    "answerarray": [
+      "No",
+      "entiendo",
+      "por",
+      "qué",
+      "quiere",
+      "verlo",
+      "dos",
+      "veces."
+    ],
+    "options": [
+      "No",
+      "entiendo",
+      "por",
+      "qué",
+      "quiere",
+      "verlo",
+      "dos",
+      "veces."
+    ]
+  },
+  {
+    "question": "or",
+    "answer": "o",
+    "answerarray": [
+      "o"
+    ],
+    "options": [
+      "o"
+    ]
+  },
+  {
+    "question": "Do it!",
+    "answer": "¡Hazlo!",
+    "answerarray": [
+      "¡Hazlo!"
+    ],
+    "options": [
+      "¡Hazlo!"
+    ]
+  },
+  {
+    "question": "Do it five times.",
+    "answer": "Hazlo cinco veces.",
+    "answerarray": [
+      "Hazlo",
+      "cinco",
+      "veces."
+    ],
+    "options": [
+      "Hazlo",
+      "cinco",
+      "veces."
+    ]
+  },
+  {
+    "question": "Do it six or seven times.",
+    "answer": "Hazlo seis o siete vezes.",
+    "answerarray": [
+      "Hazlo",
+      "seis",
+      "o",
+      "siete",
+      "vezes."
+    ],
+    "options": [
+      "Hazlo",
+      "seis",
+      "o",
+      "siete",
+      "vezes."
+    ]
+  },
+  {
+    "question": "It’s important to eat four or five times.",
+    "answer": "Es importante comer cuatro o cinco veces.",
+    "answerarray": [
+      "Es",
+      "importante",
+      "comer",
+      "cuatro",
+      "o",
+      "cinco",
+      "veces."
+    ],
+    "options": [
+      "Es",
+      "importante",
+      "comer",
+      "cuatro",
+      "o",
+      "cinco",
+      "veces."
+    ]
+  },
+  {
+    "question": "we",
+    "answer": "nosotros/nosotras",
+    "answerarray": [
+      "nosotros/nosotras"
+    ],
+    "options": [
+      "nosotros/nosotras"
+    ]
+  },
+  {
+    "question": "We (females) are going out twice today.",
+    "answer": "(Nosotras) salimos dos veces hoy.",
+    "answerarray": [
+      "(Nosotras)",
+      "salimos",
+      "dos",
+      "veces",
+      "hoy."
+    ],
+    "options": [
+      "(Nosotras)",
+      "salimos",
+      "dos",
+      "veces",
+      "hoy."
+    ]
+  },
+  {
+    "question": "how much?",
+    "answer": "¿cuánto?",
+    "answerarray": [
+      "¿cuánto?"
+    ],
+    "options": [
+      "¿cuánto?"
+    ]
+  },
+  {
+    "question": "We want to know how much it is.",
+    "answer": "Queremos saber cuánto es.",
+    "answerarray": [
+      "Queremos",
+      "saber",
+      "cuánto",
+      "es."
+    ],
+    "options": [
+      "Queremos",
+      "saber",
+      "cuánto",
+      "es."
+    ]
+  },
+  {
+    "question": "how many?",
+    "answer": "¿cuántos/as?",
+    "answerarray": [
+      "¿cuántos/as?"
+    ],
+    "options": [
+      "¿cuántos/as?"
+    ]
+  },
+  {
+    "question": "How many times?",
+    "answer": "¿Cuántas veces?",
+    "answerarray": [
+      "¿Cuántas",
+      "veces?"
+    ],
+    "options": [
+      "¿Cuántas",
+      "veces?"
+    ]
+  },
+  {
+    "question": "How many times are we going to need it?",
+    "answer": "¿Cuántas veces vamos a necesitarlo?",
+    "answerarray": [
+      "¿Cuántas",
+      "veces",
+      "vamos",
+      "a",
+      "necesitarlo?"
+    ],
+    "options": [
+      "¿Cuántas",
+      "veces",
+      "vamos",
+      "a",
+      "necesitarlo?"
+    ]
+  },
+  {
+    "question": "How many times are you going to say it?",
+    "answer": "¿Cuántas veces vas a decirlo?",
+    "answerarray": [
+      "¿Cuántas",
+      "veces",
+      "vas",
+      "a",
+      "decirlo?"
+    ],
+    "options": [
+      "¿Cuántas",
+      "veces",
+      "vas",
+      "a",
+      "decirlo?"
+    ]
+  },
+  {
+    "question": "We don’t know how many times he can do it.",
+    "answer": "No sabemos cuántas veces puede hacerlo.",
+    "answerarray": [
+      "No",
+      "sabemos",
+      "cuántas",
+      "veces",
+      "puede",
+      "hacerlo."
+    ],
+    "options": [
+      "No",
+      "sabemos",
+      "cuántas",
+      "veces",
+      "puede",
+      "hacerlo."
+    ]
+  },
+  {
+    "question": "only",
+    "answer": "solo",
+    "answerarray": [
+      "solo"
+    ],
+    "options": [
+      "solo"
+    ]
+  },
+  {
+    "question": "I only have…",
+    "answer": "solo tengo…",
+    "answerarray": [
+      "solo",
+      "tengo…"
+    ],
+    "options": [
+      "solo",
+      "tengo…"
+    ]
+  },
+  {
+    "question": "I only have three or four.",
+    "answer": "Solo tengo tres o cuatro.",
+    "answerarray": [
+      "Solo",
+      "tengo",
+      "tres",
+      "o",
+      "cuatro."
+    ],
+    "options": [
+      "Solo",
+      "tengo",
+      "tres",
+      "o",
+      "cuatro."
+    ]
+  },
+  {
+    "question": "We only need to see it twice.",
+    "answer": "Solo necesitamos verlo dos veces.",
+    "answerarray": [
+      "Solo",
+      "necesitamos",
+      "verlo",
+      "dos",
+      "veces."
+    ],
+    "options": [
+      "Solo",
+      "necesitamos",
+      "verlo",
+      "dos",
+      "veces."
+    ]
+  },
+  {
+    "question": "Why do I only have two chairs?",
+    "answer": "¿Por qué solo tengo dos sillas?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "solo",
+      "tengo",
+      "dos",
+      "sillas?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "solo",
+      "tengo",
+      "dos",
+      "sillas?"
+    ]
+  },
+  {
+    "question": "Why do you only do it on Monday?",
+    "answer": "¿Por qué solo lo haces el lunes?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "solo",
+      "lo",
+      "haces",
+      "el",
+      "lunes?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "solo",
+      "lo",
+      "haces",
+      "el",
+      "lunes?"
+    ]
+  },
+  {
+    "question": "Why don’t you do it on Friday or Saturday?",
+    "answer": "¿Por qué no lo haces el viernes o el sábado?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "no",
+      "lo",
+      "haces",
+      "el",
+      "viernes",
+      "o",
+      "el",
+      "sábado?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "no",
+      "lo",
+      "haces",
+      "el",
+      "viernes",
+      "o",
+      "el",
+      "sábado?"
+    ]
+  },
+  {
+    "question": "I only have the car on Monday and Tuesday.",
+    "answer": "Solo tengo el coche el lunes y el martes.",
+    "answerarray": [
+      "Solo",
+      "tengo",
+      "el",
+      "coche",
+      "el",
+      "lunes",
+      "y",
+      "el",
+      "martes."
+    ],
+    "options": [
+      "Solo",
+      "tengo",
+      "el",
+      "coche",
+      "el",
+      "lunes",
+      "y",
+      "el",
+      "martes."
+    ]
+  },
+  {
+    "question": "first",
+    "answer": "primero/a",
+    "answerarray": [
+      "primero/a"
+    ],
+    "options": [
+      "primero/a"
+    ]
+  },
+  {
+    "question": "the first time",
+    "answer": "la primera vez",
+    "answerarray": [
+      "la",
+      "primera",
+      "vez"
+    ],
+    "options": [
+      "la",
+      "primera",
+      "vez"
+    ]
+  },
+  {
+    "question": "It's the first time for me.",
+    "answer": "Es la primera vez para mí.",
+    "answerarray": [
+      "Es",
+      "la",
+      "primera",
+      "vez",
+      "para",
+      "mí."
+    ],
+    "options": [
+      "Es",
+      "la",
+      "primera",
+      "vez",
+      "para",
+      "mí."
+    ]
+  },
+  {
+    "question": "It's not the first time for her.",
+    "answer": "No es la primera vez para ella.",
+    "answerarray": [
+      "No",
+      "es",
+      "la",
+      "primera",
+      "vez",
+      "para",
+      "ella."
+    ],
+    "options": [
+      "No",
+      "es",
+      "la",
+      "primera",
+      "vez",
+      "para",
+      "ella."
+    ]
+  },
+  {
+    "question": "to think",
+    "answer": "pensar",
+    "answerarray": [
+      "pensar"
+    ],
+    "options": [
+      "pensar"
+    ]
+  },
+  {
+    "question": "I think that it’s the first time for you.",
+    "answer": "Pienso que es la primera vez para ti.",
+    "answerarray": [
+      "Pienso",
+      "que",
+      "es",
+      "la",
+      "primera",
+      "vez",
+      "para",
+      "ti."
+    ],
+    "options": [
+      "Pienso",
+      "que",
+      "es",
+      "la",
+      "primera",
+      "vez",
+      "para",
+      "ti."
+    ]
+  },
+  {
+    "question": "We think that she only does it on Friday.",
+    "answer": "Pensamos que solo lo hace el viernes.",
+    "answerarray": [
+      "Pensamos",
+      "que",
+      "solo",
+      "lo",
+      "hace",
+      "el",
+      "viernes."
+    ],
+    "options": [
+      "Pensamos",
+      "que",
+      "solo",
+      "lo",
+      "hace",
+      "el",
+      "viernes."
+    ]
+  },
+  {
+    "question": "red",
+    "answer": "rojo",
+    "answerarray": [
+      "rojo"
+    ],
+    "options": [
+      "rojo"
+    ]
+  },
+  {
+    "question": "blue",
+    "answer": "azul",
+    "answerarray": [
+      "azul"
+    ],
+    "options": [
+      "azul"
+    ]
+  },
+  {
+    "question": "green",
+    "answer": "verde",
+    "answerarray": [
+      "verde"
+    ],
+    "options": [
+      "verde"
+    ]
+  },
+  {
+    "question": "white",
+    "answer": "blanco",
+    "answerarray": [
+      "blanco"
+    ],
+    "options": [
+      "blanco"
+    ]
+  },
+  {
+    "question": "black",
+    "answer": "negro",
+    "answerarray": [
+      "negro"
+    ],
+    "options": [
+      "negro"
+    ]
+  },
+  {
+    "question": "yellow",
+    "answer": "amarillo",
+    "answerarray": [
+      "amarillo"
+    ],
+    "options": [
+      "amarillo"
+    ]
+  },
+  {
+    "question": "orange",
+    "answer": "naranja",
+    "answerarray": [
+      "naranja"
+    ],
+    "options": [
+      "naranja"
+    ]
+  },
+  {
+    "question": "brown",
+    "answer": "marrón",
+    "answerarray": [
+      "marrón"
+    ],
+    "options": [
+      "marrón"
+    ]
+  },
+  {
+    "question": "pink",
+    "answer": "rosa",
+    "answerarray": [
+      "rosa"
+    ],
+    "options": [
+      "rosa"
+    ]
+  },
+  {
+    "question": "the red chair",
+    "answer": "la silla roja",
+    "answerarray": [
+      "la",
+      "silla",
+      "roja"
+    ],
+    "options": [
+      "la",
+      "silla",
+      "roja"
+    ]
+  },
+  {
+    "question": "the green table",
+    "answer": "la mesa verde",
+    "answerarray": [
+      "la",
+      "mesa",
+      "verde"
+    ],
+    "options": [
+      "la",
+      "mesa",
+      "verde"
+    ]
+  },
+  {
+    "question": "the red car",
+    "answer": "el coche rojo",
+    "answerarray": [
+      "el",
+      "coche",
+      "rojo"
+    ],
+    "options": [
+      "el",
+      "coche",
+      "rojo"
+    ]
+  },
+  {
+    "question": "The red chair is on the green table.",
+    "answer": "La silla roja está en la mesa verde.",
+    "answerarray": [
+      "La",
+      "silla",
+      "roja",
+      "está",
+      "en",
+      "la",
+      "mesa",
+      "verde."
+    ],
+    "options": [
+      "La",
+      "silla",
+      "roja",
+      "está",
+      "en",
+      "la",
+      "mesa",
+      "verde."
+    ]
+  },
+  {
+    "question": "The black car is very fast.",
+    "answer": "El coche negro es muy rápido.",
+    "answerarray": [
+      "El",
+      "coche",
+      "negro",
+      "es",
+      "muy",
+      "rápido."
+    ],
+    "options": [
+      "El",
+      "coche",
+      "negro",
+      "es",
+      "muy",
+      "rápido."
+    ]
+  },
+  {
+    "question": "I wouldn’t like to live in an orange house.",
+    "answer": "No me gustaría vivir en una casa naranja.",
+    "answerarray": [
+      "No",
+      "me",
+      "gustaría",
+      "vivir",
+      "en",
+      "una",
+      "casa",
+      "naranja."
+    ],
+    "options": [
+      "No",
+      "me",
+      "gustaría",
+      "vivir",
+      "en",
+      "una",
+      "casa",
+      "naranja."
+    ]
+  },
+  {
+    "question": "Number six is yellow, but number eight is white.",
+    "answer": "El número seis es amarillo, pero el número ocho es blanco.",
+    "answerarray": [
+      "El",
+      "número",
+      "seis",
+      "es",
+      "amarillo,",
+      "pero",
+      "el",
+      "número",
+      "ocho",
+      "es",
+      "blanco."
+    ],
+    "options": [
+      "El",
+      "número",
+      "seis",
+      "es",
+      "amarillo,",
+      "pero",
+      "el",
+      "número",
+      "ocho",
+      "es",
+      "blanco."
+    ]
+  },
+  {
+    "question": "Number four isn’t black, it’s blue and yellow.",
+    "answer": "El número cuatro no es negro, es azul y amarillo.",
+    "answerarray": [
+      "El",
+      "número",
+      "cuatro",
+      "no",
+      "es",
+      "negro,",
+      "es",
+      "azul",
+      "y",
+      "amarillo."
+    ],
+    "options": [
+      "El",
+      "número",
+      "cuatro",
+      "no",
+      "es",
+      "negro,",
+      "es",
+      "azul",
+      "y",
+      "amarillo."
+    ]
+  },
+  {
+    "question": "Buy the book!",
+    "answer": "¡Compra el libro!",
+    "answerarray": [
+      "¡Compra",
+      "el",
+      "libro!"
+    ],
+    "options": [
+      "¡Compra",
+      "el",
+      "libro!"
+    ]
+  },
+  {
+    "question": "Call me later.",
+    "answer": "Llámame más tarde.",
+    "answerarray": [
+      "Llámame",
+      "más",
+      "tarde."
+    ],
+    "options": [
+      "Llámame",
+      "más",
+      "tarde."
+    ]
+  },
+  {
+    "question": "Give me the blue telephone.",
+    "answer": "Dame el teléfono azul.",
+    "answerarray": [
+      "Dame",
+      "el",
+      "teléfono",
+      "azul."
+    ],
+    "options": [
+      "Dame",
+      "el",
+      "teléfono",
+      "azul."
+    ]
+  },
+  {
+    "question": "Come back with him.",
+    "answer": "Vuelve con él.",
+    "answerarray": [
+      "Vuelve",
+      "con",
+      "él."
+    ],
+    "options": [
+      "Vuelve",
+      "con",
+      "él."
+    ]
+  },
+  {
+    "question": "Lift up the black computer.",
+    "answer": "Levanta el ordenador negro.",
+    "answerarray": [
+      "Levanta",
+      "el",
+      "ordenador",
+      "negro."
+    ],
+    "options": [
+      "Levanta",
+      "el",
+      "ordenador",
+      "negro."
+    ]
+  },
+  {
+    "question": "Speak more slowly, please.",
+    "answer": "Habla más despacio, por favor.",
+    "answerarray": [
+      "Habla",
+      "más",
+      "despacio,",
+      "por",
+      "favor."
+    ],
+    "options": [
+      "Habla",
+      "más",
+      "despacio,",
+      "por",
+      "favor."
+    ]
+  },
+  {
+    "question": "Do it!",
+    "answer": "¡Hazlo!",
+    "answerarray": [
+      "¡Hazlo!"
+    ],
+    "options": [
+      "¡Hazlo!"
+    ]
+  },
+  {
+    "question": "Do it with me, please.",
+    "answer": "Hazlo conmigo, por favor.",
+    "answerarray": [
+      "Hazlo",
+      "conmigo,",
+      "por",
+      "favor."
+    ],
+    "options": [
+      "Hazlo",
+      "conmigo,",
+      "por",
+      "favor."
+    ]
+  },
+  {
+    "question": "put it",
+    "answer": "…ponlo…",
+    "answerarray": [
+      "…ponlo…"
+    ],
+    "options": [
+      "…ponlo…"
+    ]
+  },
+  {
+    "question": "Put it on the red table.",
+    "answer": "Ponlo en la mesa roja.",
+    "answerarray": [
+      "Ponlo",
+      "en",
+      "la",
+      "mesa",
+      "roja."
+    ],
+    "options": [
+      "Ponlo",
+      "en",
+      "la",
+      "mesa",
+      "roja."
+    ]
+  },
+  {
+    "question": "Put eight or nine beers on the table, please.",
+    "answer": "Pon ocho o nueve cervezas en la mesa, por favor.",
+    "answerarray": [
+      "Pon",
+      "ocho",
+      "o",
+      "nueve",
+      "cervezas",
+      "en",
+      "la",
+      "mesa,",
+      "por",
+      "favor."
+    ],
+    "options": [
+      "Pon",
+      "ocho",
+      "o",
+      "nueve",
+      "cervezas",
+      "en",
+      "la",
+      "mesa,",
+      "por",
+      "favor."
+    ]
+  },
+  {
+    "question": "How’s it going? How are you?",
+    "answer": "¿Qué tal?",
+    "answerarray": [
+      "¿Qué",
+      "tal?"
+    ],
+    "options": [
+      "¿Qué",
+      "tal?"
+    ]
+  },
+  {
+    "question": "Hello. How’s it going? Hola.",
+    "answer": "¿Qué tal?",
+    "answerarray": [
+      "¿Qué",
+      "tal?"
+    ],
+    "options": [
+      "¿Qué",
+      "tal?"
+    ]
+  },
+  {
+    "question": "Very well. And you?",
+    "answer": "Muy bien. ¿Y tú?",
+    "answerarray": [
+      "Muy",
+      "bien.",
+      "¿Y",
+      "tú?"
+    ],
+    "options": [
+      "Muy",
+      "bien.",
+      "¿Y",
+      "tú?"
+    ]
+  },
+  {
+    "question": "how?",
+    "answer": "¿cómo?",
+    "answerarray": [
+      "¿cómo?"
+    ],
+    "options": [
+      "¿cómo?"
+    ]
+  },
+  {
+    "question": "What's your name?",
+    "answer": "¿Cómo te llamas?",
+    "answerarray": [
+      "¿Cómo",
+      "te",
+      "llamas?"
+    ],
+    "options": [
+      "¿Cómo",
+      "te",
+      "llamas?"
+    ]
+  },
+  {
+    "question": "My name’s David.",
+    "answer": "Me llamo David.",
+    "answerarray": [
+      "Me",
+      "llamo",
+      "David."
+    ],
+    "options": [
+      "Me",
+      "llamo",
+      "David."
+    ]
+  },
+  {
+    "question": "Hello. My name’s Jessica. What’s your name?",
+    "answer": "Hola, me llamo Jessica. ¿Cómo te llamas?",
+    "answerarray": [
+      "Hola,",
+      "me",
+      "llamo",
+      "Jessica.",
+      "¿Cómo",
+      "te",
+      "llamas?"
+    ],
+    "options": [
+      "Hola,",
+      "me",
+      "llamo",
+      "Jessica.",
+      "¿Cómo",
+      "te",
+      "llamas?"
+    ]
+  },
+  {
+    "question": "What's her name?",
+    "answer": "¿Cómo se llama?",
+    "answerarray": [
+      "¿Cómo",
+      "se",
+      "llama?"
+    ],
+    "options": [
+      "¿Cómo",
+      "se",
+      "llama?"
+    ]
+  },
+  {
+    "question": "Her name is Marta.",
+    "answer": "Se llama Marta.",
+    "answerarray": [
+      "Se",
+      "llama",
+      "Marta."
+    ],
+    "options": [
+      "Se",
+      "llama",
+      "Marta."
+    ]
+  },
+  {
+    "question": "What's his name?",
+    "answer": "¿Cómo se llama?",
+    "answerarray": [
+      "¿Cómo",
+      "se",
+      "llama?"
+    ],
+    "options": [
+      "¿Cómo",
+      "se",
+      "llama?"
+    ]
+  },
+  {
+    "question": "His name is Juan.",
+    "answer": "(Él) se llama Juan.",
+    "answerarray": [
+      "(Él)",
+      "se",
+      "llama",
+      "Juan."
+    ],
+    "options": [
+      "(Él)",
+      "se",
+      "llama",
+      "Juan."
+    ]
+  },
+  {
+    "question": "What’s happening/What’s going on?/What’s up?",
+    "answer": "¿Qué pasa?",
+    "answerarray": [
+      "¿Qué",
+      "pasa?"
+    ],
+    "options": [
+      "¿Qué",
+      "pasa?"
+    ]
+  },
+  {
+    "question": "Hello Juan. How are you? What’s going on?",
+    "answer": "Hola Juan. ¿Qué tal? ¿Qué pasa?",
+    "answerarray": [
+      "Hola",
+      "Juan.",
+      "¿Qué",
+      "tal?",
+      "¿Qué",
+      "pasa?"
+    ],
+    "options": [
+      "Hola",
+      "Juan.",
+      "¿Qué",
+      "tal?",
+      "¿Qué",
+      "pasa?"
+    ]
+  },
+  {
+    "question": "He’s going to do it tonight.",
+    "answer": "Va a hacerlo esta noche.",
+    "answerarray": [
+      "Va",
+      "a",
+      "hacerlo",
+      "esta",
+      "noche."
+    ],
+    "options": [
+      "Va",
+      "a",
+      "hacerlo",
+      "esta",
+      "noche."
+    ]
+  },
+  {
+    "question": "She’s going to know that we’re not here.",
+    "answer": "Va a saber que no estamos aquí.",
+    "answerarray": [
+      "Va",
+      "a",
+      "saber",
+      "que",
+      "no",
+      "estamos",
+      "aquí."
+    ],
+    "options": [
+      "Va",
+      "a",
+      "saber",
+      "que",
+      "no",
+      "estamos",
+      "aquí."
+    ]
+  },
+  {
+    "question": "to find",
+    "answer": "encontrar",
+    "answerarray": [
+      "encontrar"
+    ],
+    "options": [
+      "encontrar"
+    ]
+  },
+  {
+    "question": "She finds it very easy.",
+    "answer": "Lo encuentra muy fácil.",
+    "answerarray": [
+      "Lo",
+      "encuentra",
+      "muy",
+      "fácil."
+    ],
+    "options": [
+      "Lo",
+      "encuentra",
+      "muy",
+      "fácil."
+    ]
+  },
+  {
+    "question": "I find it difficult.",
+    "answer": "Lo encuentro difícil.",
+    "answerarray": [
+      "Lo",
+      "encuentro",
+      "difícil."
+    ],
+    "options": [
+      "Lo",
+      "encuentro",
+      "difícil."
+    ]
+  },
+  {
+    "question": "I want to find it today.",
+    "answer": "Quiero encontrarlo hoy.",
+    "answerarray": [
+      "Quiero",
+      "encontrarlo",
+      "hoy."
+    ],
+    "options": [
+      "Quiero",
+      "encontrarlo",
+      "hoy."
+    ]
+  },
+  {
+    "question": "Can you tell me where it is? …because I can’t find it.",
+    "answer": "¿Puedes decirme dónde está? …porque no puedo encontrarlo.",
+    "answerarray": [
+      "¿Puedes",
+      "decirme",
+      "dónde",
+      "está?",
+      "…porque",
+      "no",
+      "puedo",
+      "encontrarlo."
+    ],
+    "options": [
+      "¿Puedes",
+      "decirme",
+      "dónde",
+      "está?",
+      "…porque",
+      "no",
+      "puedo",
+      "encontrarlo."
+    ]
+  },
+  {
+    "question": "to sell",
+    "answer": "vender",
+    "answerarray": [
+      "vender"
+    ],
+    "options": [
+      "vender"
+    ]
+  },
+  {
+    "question": "I'm selling the green car.",
+    "answer": "Vendo el coche verde.",
+    "answerarray": [
+      "Vendo",
+      "el",
+      "coche",
+      "verde."
+    ],
+    "options": [
+      "Vendo",
+      "el",
+      "coche",
+      "verde."
+    ]
+  },
+  {
+    "question": "Why aren’t you selling the white one?",
+    "answer": "¿Por qué no vendes el blanco?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "no",
+      "vendes",
+      "el",
+      "blanco?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "no",
+      "vendes",
+      "el",
+      "blanco?"
+    ]
+  },
+  {
+    "question": "I'm not selling it because I need it.",
+    "answer": "No lo vendo porque lo necesito.",
+    "answerarray": [
+      "No",
+      "lo",
+      "vendo",
+      "porque",
+      "lo",
+      "necesito."
+    ],
+    "options": [
+      "No",
+      "lo",
+      "vendo",
+      "porque",
+      "lo",
+      "necesito."
+    ]
+  },
+  {
+    "question": "I'm going to sell it if he wants to buy it.",
+    "answer": "Voy a venderlo si quiere comprarlo.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "venderlo",
+      "si",
+      "quiere",
+      "comprarlo."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "venderlo",
+      "si",
+      "quiere",
+      "comprarlo."
+    ]
+  },
+  {
+    "question": "How can you buy it if you don’t know how much it is?",
+    "answer": "¿Cómo puedes comprarlo si no sabes cuánto es?",
+    "answerarray": [
+      "¿Cómo",
+      "puedes",
+      "comprarlo",
+      "si",
+      "no",
+      "sabes",
+      "cuánto",
+      "es?"
+    ],
+    "options": [
+      "¿Cómo",
+      "puedes",
+      "comprarlo",
+      "si",
+      "no",
+      "sabes",
+      "cuánto",
+      "es?"
+    ]
+  },
+  {
+    "question": "money",
+    "answer": "(el) dinero",
+    "answerarray": [
+      "(el)",
+      "dinero"
+    ],
+    "options": [
+      "(el)",
+      "dinero"
+    ]
+  },
+  {
+    "question": "a lot of",
+    "answer": "mucho/mucha",
+    "answerarray": [
+      "mucho/mucha"
+    ],
+    "options": [
+      "mucho/mucha"
+    ]
+  },
+  {
+    "question": "He has a lot of money.",
+    "answer": "Tiene mucho dinero.",
+    "answerarray": [
+      "Tiene",
+      "mucho",
+      "dinero."
+    ],
+    "options": [
+      "Tiene",
+      "mucho",
+      "dinero."
+    ]
+  },
+  {
+    "question": "If I sell the house, I’m going to have a lot of money.",
+    "answer": "Si vendo la casa, voy a tener mucho dinero.",
+    "answerarray": [
+      "Si",
+      "vendo",
+      "la",
+      "casa,",
+      "voy",
+      "a",
+      "tener",
+      "mucho",
+      "dinero."
+    ],
+    "options": [
+      "Si",
+      "vendo",
+      "la",
+      "casa,",
+      "voy",
+      "a",
+      "tener",
+      "mucho",
+      "dinero."
+    ]
+  },
+  {
+    "question": "a problem",
+    "answer": "un problema (masculine)",
+    "answerarray": [
+      "un",
+      "problema",
+      "(masculine)"
+    ],
+    "options": [
+      "un",
+      "problema",
+      "(masculine)"
+    ]
+  },
+  {
+    "question": "The problem is that she has too much money.",
+    "answer": "El problema es que tiene demasiado dinero",
+    "answerarray": [
+      "El",
+      "problema",
+      "es",
+      "que",
+      "tiene",
+      "demasiado",
+      "dinero"
+    ],
+    "options": [
+      "El",
+      "problema",
+      "es",
+      "que",
+      "tiene",
+      "demasiado",
+      "dinero"
+    ]
+  },
+  {
+    "question": "the bank",
+    "answer": "el banco",
+    "answerarray": [
+      "el",
+      "banco"
+    ],
+    "options": [
+      "el",
+      "banco"
+    ]
+  },
+  {
+    "question": "to the",
+    "answer": "a la",
+    "answerarray": [
+      "a",
+      "la"
+    ],
+    "options": [
+      "a",
+      "la"
+    ]
+  },
+  {
+    "question": "I'm going to the bank.",
+    "answer": "Voy al banco.",
+    "answerarray": [
+      "Voy",
+      "al",
+      "banco."
+    ],
+    "options": [
+      "Voy",
+      "al",
+      "banco."
+    ]
+  },
+  {
+    "question": "I'm going to the house.",
+    "answer": "Voy a la casa.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "la",
+      "casa."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "la",
+      "casa."
+    ]
+  },
+  {
+    "question": "She has to go to the bank because she doesn’t have (any) money.",
+    "answer": "Tiene que ir al banco porque no tiene dinero.",
+    "answerarray": [
+      "Tiene",
+      "que",
+      "ir",
+      "al",
+      "banco",
+      "porque",
+      "no",
+      "tiene",
+      "dinero."
+    ],
+    "options": [
+      "Tiene",
+      "que",
+      "ir",
+      "al",
+      "banco",
+      "porque",
+      "no",
+      "tiene",
+      "dinero."
+    ]
+  },
+  {
+    "question": "We are coming/going back to the hotel at six o’clock.",
+    "answer": "Volvemos al hotel a las seis.",
+    "answerarray": [
+      "Volvemos",
+      "al",
+      "hotel",
+      "a",
+      "las",
+      "seis."
+    ],
+    "options": [
+      "Volvemos",
+      "al",
+      "hotel",
+      "a",
+      "las",
+      "seis."
+    ]
+  },
+  {
+    "question": "you (plural) need",
+    "answer": "vosotros/as necesitáis",
+    "answerarray": [
+      "vosotros/as",
+      "necesitáis"
+    ],
+    "options": [
+      "vosotros/as",
+      "necesitáis"
+    ]
+  },
+  {
+    "question": "they need",
+    "answer": "ellos/as necesitan",
+    "answerarray": [
+      "ellos/as",
+      "necesitan"
+    ],
+    "options": [
+      "ellos/as",
+      "necesitan"
+    ]
+  },
+  {
+    "question": "You (plural) need a lot of money.",
+    "answer": "Necesitáis mucho dinero.",
+    "answerarray": [
+      "Necesitáis",
+      "mucho",
+      "dinero."
+    ],
+    "options": [
+      "Necesitáis",
+      "mucho",
+      "dinero."
+    ]
+  },
+  {
+    "question": "They need a big car.",
+    "answer": "Necesitan un coche grande.",
+    "answerarray": [
+      "Necesitan",
+      "un",
+      "coche",
+      "grande."
+    ],
+    "options": [
+      "Necesitan",
+      "un",
+      "coche",
+      "grande."
+    ]
+  },
+  {
+    "question": "At what time do you (plural) have dinner?",
+    "answer": "¿A qué hora cenáis?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "cenáis?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "cenáis?"
+    ]
+  },
+  {
+    "question": "We have dinner at nine o’clock.",
+    "answer": "Cenamos a las nueve.",
+    "answerarray": [
+      "Cenamos",
+      "a",
+      "las",
+      "nueve."
+    ],
+    "options": [
+      "Cenamos",
+      "a",
+      "las",
+      "nueve."
+    ]
+  },
+  {
+    "question": "At what time do they arrive?",
+    "answer": "¿A qué hora llegan?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "llegan?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "llegan?"
+    ]
+  },
+  {
+    "question": "They arrive at eight o’clock.",
+    "answer": "Llegan a las ocho.",
+    "answerarray": [
+      "Llegan",
+      "a",
+      "las",
+      "ocho."
+    ],
+    "options": [
+      "Llegan",
+      "a",
+      "las",
+      "ocho."
+    ]
+  },
+  {
+    "question": "you (plural) eat",
+    "answer": "(vosotros/as) coméis",
+    "answerarray": [
+      "(vosotros/as)",
+      "coméis"
+    ],
+    "options": [
+      "(vosotros/as)",
+      "coméis"
+    ]
+  },
+  {
+    "question": "they eat",
+    "answer": "(ellos/as) comen",
+    "answerarray": [
+      "(ellos/as)",
+      "comen"
+    ],
+    "options": [
+      "(ellos/as)",
+      "comen"
+    ]
+  },
+  {
+    "question": "At what time do you (plural) have lunch?",
+    "answer": "¿A qué hora coméis?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "coméis?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "coméis?"
+    ]
+  },
+  {
+    "question": "We have lunch at one o’clock.",
+    "answer": "Comemos a la una.",
+    "answerarray": [
+      "Comemos",
+      "a",
+      "la",
+      "una."
+    ],
+    "options": [
+      "Comemos",
+      "a",
+      "la",
+      "una."
+    ]
+  },
+  {
+    "question": "When do they have lunch?",
+    "answer": "¿Cuándo comen?",
+    "answerarray": [
+      "¿Cuándo",
+      "comen?"
+    ],
+    "options": [
+      "¿Cuándo",
+      "comen?"
+    ]
+  },
+  {
+    "question": "They have lunch at two o’clock.",
+    "answer": "(Ellos/as) comen a las dos.",
+    "answerarray": [
+      "(Ellos/as)",
+      "comen",
+      "a",
+      "las",
+      "dos."
+    ],
+    "options": [
+      "(Ellos/as)",
+      "comen",
+      "a",
+      "las",
+      "dos."
+    ]
+  },
+  {
+    "question": "They sell cars.",
+    "answer": "Venden coches",
+    "answerarray": [
+      "Venden",
+      "coches"
+    ],
+    "options": [
+      "Venden",
+      "coches"
+    ]
+  },
+  {
+    "question": "Are you (plural) selling the house?",
+    "answer": "¿Vendéis la casa?",
+    "answerarray": [
+      "¿Vendéis",
+      "la",
+      "casa?"
+    ],
+    "options": [
+      "¿Vendéis",
+      "la",
+      "casa?"
+    ]
+  },
+  {
+    "question": "They don’t understand.",
+    "answer": "No comprenden.",
+    "answerarray": [
+      "No",
+      "comprenden."
+    ],
+    "options": [
+      "No",
+      "comprenden."
+    ]
+  },
+  {
+    "question": "Do you (plural) understand?",
+    "answer": "¿Comprendéis?",
+    "answerarray": [
+      "¿Comprendéis?"
+    ],
+    "options": [
+      "¿Comprendéis?"
+    ]
+  },
+  {
+    "question": "you (plural) live",
+    "answer": "(vosotros/as) vivís",
+    "answerarray": [
+      "(vosotros/as)",
+      "vivís"
+    ],
+    "options": [
+      "(vosotros/as)",
+      "vivís"
+    ]
+  },
+  {
+    "question": "they live",
+    "answer": "(ellos/as) viven",
+    "answerarray": [
+      "(ellos/as)",
+      "viven"
+    ],
+    "options": [
+      "(ellos/as)",
+      "viven"
+    ]
+  },
+  {
+    "question": "They live in Madrid.",
+    "answer": "Viven en Madrid.",
+    "answerarray": [
+      "Viven",
+      "en",
+      "Madrid."
+    ],
+    "options": [
+      "Viven",
+      "en",
+      "Madrid."
+    ]
+  },
+  {
+    "question": "Do you (plural) live in Spain?",
+    "answer": "¿Vivís en España?",
+    "answerarray": [
+      "¿Vivís",
+      "en",
+      "España?"
+    ],
+    "options": [
+      "¿Vivís",
+      "en",
+      "España?"
+    ]
+  },
+  {
+    "question": "Do you (singular) want to go out with me?",
+    "answer": "¿Quieres salir conmigo?",
+    "answerarray": [
+      "¿Quieres",
+      "salir",
+      "conmigo?"
+    ],
+    "options": [
+      "¿Quieres",
+      "salir",
+      "conmigo?"
+    ]
+  },
+  {
+    "question": "They are going out at ten o’clock.",
+    "answer": "Salen a las diez.",
+    "answerarray": [
+      "Salen",
+      "a",
+      "las",
+      "diez."
+    ],
+    "options": [
+      "Salen",
+      "a",
+      "las",
+      "diez."
+    ]
+  },
+  {
+    "question": "there is/are",
+    "answer": "hay",
+    "answerarray": [
+      "hay"
+    ],
+    "options": [
+      "hay"
+    ]
+  },
+  {
+    "question": "There are three hotels here.",
+    "answer": "Hay tres hoteles aquí.",
+    "answerarray": [
+      "Hay",
+      "tres",
+      "hoteles",
+      "aquí."
+    ],
+    "options": [
+      "Hay",
+      "tres",
+      "hoteles",
+      "aquí."
+    ]
+  },
+  {
+    "question": "There is a woman in the room.",
+    "answer": "Hay una mujer en la habitación.",
+    "answerarray": [
+      "Hay",
+      "una",
+      "mujer",
+      "en",
+      "la",
+      "habitación."
+    ],
+    "options": [
+      "Hay",
+      "una",
+      "mujer",
+      "en",
+      "la",
+      "habitación."
+    ]
+  },
+  {
+    "question": "Is there a beer on the table?",
+    "answer": "¿Hay una cerveza en la mesa?",
+    "answerarray": [
+      "¿Hay",
+      "una",
+      "cerveza",
+      "en",
+      "la",
+      "mesa?"
+    ],
+    "options": [
+      "¿Hay",
+      "una",
+      "cerveza",
+      "en",
+      "la",
+      "mesa?"
+    ]
+  },
+  {
+    "question": "a swimming pool",
+    "answer": "una piscina",
+    "answerarray": [
+      "una",
+      "piscina"
+    ],
+    "options": [
+      "una",
+      "piscina"
+    ]
+  },
+  {
+    "question": "Is there a swimming pool in the hotel?",
+    "answer": "¿Hay una piscina en el hotel?",
+    "answerarray": [
+      "¿Hay",
+      "una",
+      "piscina",
+      "en",
+      "el",
+      "hotel?"
+    ],
+    "options": [
+      "¿Hay",
+      "una",
+      "piscina",
+      "en",
+      "el",
+      "hotel?"
+    ]
+  },
+  {
+    "question": "There is a lot of money in the car.",
+    "answer": "Hay mucho dinero en el coche.",
+    "answerarray": [
+      "Hay",
+      "mucho",
+      "dinero",
+      "en",
+      "el",
+      "coche."
+    ],
+    "options": [
+      "Hay",
+      "mucho",
+      "dinero",
+      "en",
+      "el",
+      "coche."
+    ]
+  },
+  {
+    "question": "Is there (any) water in the swimming pool?",
+    "answer": "¿Hay agua en la piscina?",
+    "answerarray": [
+      "¿Hay",
+      "agua",
+      "en",
+      "la",
+      "piscina?"
+    ],
+    "options": [
+      "¿Hay",
+      "agua",
+      "en",
+      "la",
+      "piscina?"
+    ]
+  },
+  {
+    "question": "a beach",
+    "answer": "una playa",
+    "answerarray": [
+      "una",
+      "playa"
+    ],
+    "options": [
+      "una",
+      "playa"
+    ]
+  },
+  {
+    "question": "Is there a beach in Barcelona?",
+    "answer": "¿Hay una playa en Barcelona?",
+    "answerarray": [
+      "¿Hay",
+      "una",
+      "playa",
+      "en",
+      "Barcelona?"
+    ],
+    "options": [
+      "¿Hay",
+      "una",
+      "playa",
+      "en",
+      "Barcelona?"
+    ]
+  },
+  {
+    "question": "There aren’t (any) beaches in Madrid.",
+    "answer": "No hay playas en Madrid.",
+    "answerarray": [
+      "No",
+      "hay",
+      "playas",
+      "en",
+      "Madrid."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "playas",
+      "en",
+      "Madrid."
+    ]
+  },
+  {
+    "question": "of",
+    "answer": "de",
+    "answerarray": [
+      "de"
+    ],
+    "options": [
+      "de"
+    ]
+  },
+  {
+    "question": "David’s car (“the car of David”)",
+    "answer": "el coche de David",
+    "answerarray": [
+      "el",
+      "coche",
+      "de",
+      "David"
+    ],
+    "options": [
+      "el",
+      "coche",
+      "de",
+      "David"
+    ]
+  },
+  {
+    "question": "Maria’s car",
+    "answer": "el coche de María",
+    "answerarray": [
+      "el",
+      "coche",
+      "de",
+      "María"
+    ],
+    "options": [
+      "el",
+      "coche",
+      "de",
+      "María"
+    ]
+  },
+  {
+    "question": "Maria’s house",
+    "answer": "la casa de María",
+    "answerarray": [
+      "la",
+      "casa",
+      "de",
+      "María"
+    ],
+    "options": [
+      "la",
+      "casa",
+      "de",
+      "María"
+    ]
+  },
+  {
+    "question": "I can't see Pablo’s computer.",
+    "answer": "No puedo ver la computadora de Pablo.",
+    "answerarray": [
+      "No",
+      "puedo",
+      "ver",
+      "la",
+      "computadora",
+      "de",
+      "Pablo."
+    ],
+    "options": [
+      "No",
+      "puedo",
+      "ver",
+      "la",
+      "computadora",
+      "de",
+      "Pablo."
+    ]
+  },
+  {
+    "question": "near",
+    "answer": "cerca de",
+    "answerarray": [
+      "cerca",
+      "de"
+    ],
+    "options": [
+      "cerca",
+      "de"
+    ]
+  },
+  {
+    "question": "I live near Barcelona.",
+    "answer": "Vivo cerca de Barcelona.",
+    "answerarray": [
+      "Vivo",
+      "cerca",
+      "de",
+      "Barcelona."
+    ],
+    "options": [
+      "Vivo",
+      "cerca",
+      "de",
+      "Barcelona."
+    ]
+  },
+  {
+    "question": "Do you live near Córdoba?",
+    "answer": "¿Vivís cerca de Córdoba?",
+    "answerarray": [
+      "¿Vivís",
+      "cerca",
+      "de",
+      "Córdoba?"
+    ],
+    "options": [
+      "¿Vivís",
+      "cerca",
+      "de",
+      "Córdoba?"
+    ]
+  },
+  {
+    "question": "They don't live near my house.",
+    "answer": "No viven cerca de mi casa.",
+    "answerarray": [
+      "No",
+      "viven",
+      "cerca",
+      "de",
+      "mi",
+      "casa."
+    ],
+    "options": [
+      "No",
+      "viven",
+      "cerca",
+      "de",
+      "mi",
+      "casa."
+    ]
+  },
+  {
+    "question": "near the",
+    "answer": "de la...",
+    "answerarray": [
+      "de",
+      "la..."
+    ],
+    "options": [
+      "de",
+      "la..."
+    ]
+  },
+  {
+    "question": "My house is near the bank.",
+    "answer": "Mi casa está cerca del banco.",
+    "answerarray": [
+      "Mi",
+      "casa",
+      "está",
+      "cerca",
+      "del",
+      "banco."
+    ],
+    "options": [
+      "Mi",
+      "casa",
+      "está",
+      "cerca",
+      "del",
+      "banco."
+    ]
+  },
+  {
+    "question": "The pool is near the hotel.",
+    "answer": "La piscina está cerca del hotel.",
+    "answerarray": [
+      "La",
+      "piscina",
+      "está",
+      "cerca",
+      "del",
+      "hotel."
+    ],
+    "options": [
+      "La",
+      "piscina",
+      "está",
+      "cerca",
+      "del",
+      "hotel."
+    ]
+  },
+  {
+    "question": "The car is near the house.",
+    "answer": "El carro está cerca de la casa.",
+    "answerarray": [
+      "El",
+      "carro",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "casa."
+    ],
+    "options": [
+      "El",
+      "carro",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "casa."
+    ]
+  },
+  {
+    "question": "his/her",
+    "answer": "su",
+    "answerarray": [
+      "su"
+    ],
+    "options": [
+      "su"
+    ]
+  },
+  {
+    "question": "Her car is near the house.",
+    "answer": "Su coche está cerca de la casa.",
+    "answerarray": [
+      "Su",
+      "coche",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "casa."
+    ],
+    "options": [
+      "Su",
+      "coche",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "casa."
+    ]
+  },
+  {
+    "question": "His car is near Maria’s house.",
+    "answer": "Su coche está cerca de la casa.",
+    "answerarray": [
+      "Su",
+      "coche",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "casa."
+    ],
+    "options": [
+      "Su",
+      "coche",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "casa."
+    ]
+  },
+  {
+    "question": "Is there a beach near the hotel?",
+    "answer": "¿Hay una playa cerca del hotel?",
+    "answerarray": [
+      "¿Hay",
+      "una",
+      "playa",
+      "cerca",
+      "del",
+      "hotel?"
+    ],
+    "options": [
+      "¿Hay",
+      "una",
+      "playa",
+      "cerca",
+      "del",
+      "hotel?"
+    ]
+  },
+  {
+    "question": "They are selling the house near the beach.",
+    "answer": "están vendiendo la casa cerca de la playa.",
+    "answerarray": [
+      "están",
+      "vendiendo",
+      "la",
+      "casa",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ],
+    "options": [
+      "están",
+      "vendiendo",
+      "la",
+      "casa",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ]
+  },
+  {
+    "question": "Her house isn’t near the beach",
+    "answer": "Su casa no está cerca de la playa.",
+    "answerarray": [
+      "Su",
+      "casa",
+      "no",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ],
+    "options": [
+      "Su",
+      "casa",
+      "no",
+      "está",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ]
+  },
+  {
+    "question": "There’s a woman near the green car.",
+    "answer": "Hay una mujer cerca del coche verde.",
+    "answerarray": [
+      "Hay",
+      "una",
+      "mujer",
+      "cerca",
+      "del",
+      "coche",
+      "verde."
+    ],
+    "options": [
+      "Hay",
+      "una",
+      "mujer",
+      "cerca",
+      "del",
+      "coche",
+      "verde."
+    ]
+  },
+  {
+    "question": "I would like to live near the beach.",
+    "answer": "Me gustaría vivir cerca de la playa.",
+    "answerarray": [
+      "Me",
+      "gustaría",
+      "vivir",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ],
+    "options": [
+      "Me",
+      "gustaría",
+      "vivir",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ]
+  },
+  {
+    "question": "more",
+    "answer": "más",
+    "answerarray": [
+      "más"
+    ],
+    "options": [
+      "más"
+    ]
+  },
+  {
+    "question": "Can you speak more slowly, please?",
+    "answer": "¿Puedes hablar mas despacio, por favor?",
+    "answerarray": [
+      "¿Puedes",
+      "hablar",
+      "mas",
+      "despacio,",
+      "por",
+      "favor?"
+    ],
+    "options": [
+      "¿Puedes",
+      "hablar",
+      "mas",
+      "despacio,",
+      "por",
+      "favor?"
+    ]
+  },
+  {
+    "question": "Her house is big, but my house is nearer (more near) the beach.",
+    "answer": "Su casa es grande, pero mi casa esta más cerca de la playa.",
+    "answerarray": [
+      "Su",
+      "casa",
+      "es",
+      "grande,",
+      "pero",
+      "mi",
+      "casa",
+      "esta",
+      "más",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ],
+    "options": [
+      "Su",
+      "casa",
+      "es",
+      "grande,",
+      "pero",
+      "mi",
+      "casa",
+      "esta",
+      "más",
+      "cerca",
+      "de",
+      "la",
+      "playa."
+    ]
+  },
+  {
+    "question": "to mean",
+    "answer": "querer decir",
+    "answerarray": [
+      "querer",
+      "decir"
+    ],
+    "options": [
+      "querer",
+      "decir"
+    ]
+  },
+  {
+    "question": "What does “feliz” mean?",
+    "answer": "¿Qué quiere decir “feliz”?",
+    "answerarray": [
+      "¿Qué",
+      "quiere",
+      "decir",
+      "“feliz”?"
+    ],
+    "options": [
+      "¿Qué",
+      "quiere",
+      "decir",
+      "“feliz”?"
+    ]
+  },
+  {
+    "question": "“Feliz” means “happy”.",
+    "answer": "“Feliz” quiere decir “happy”.",
+    "answerarray": [
+      "“Feliz”",
+      "quiere",
+      "decir",
+      "“happy”."
+    ],
+    "options": [
+      "“Feliz”",
+      "quiere",
+      "decir",
+      "“happy”."
+    ]
+  },
+  {
+    "question": "What does “azul\" mean?",
+    "answer": "¿Qué quiere decir “azul”?",
+    "answerarray": [
+      "¿Qué",
+      "quiere",
+      "decir",
+      "“azul”?"
+    ],
+    "options": [
+      "¿Qué",
+      "quiere",
+      "decir",
+      "“azul”?"
+    ]
+  },
+  {
+    "question": "Do you know what this means?",
+    "answer": "¿Sabes lo que quiere decir esto?",
+    "answerarray": [
+      "¿Sabes",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "esto?"
+    ],
+    "options": [
+      "¿Sabes",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "esto?"
+    ]
+  },
+  {
+    "question": "No, I don’t know what that means.",
+    "answer": "No. No sé lo que quiere decir eso.",
+    "answerarray": [
+      "No.",
+      "No",
+      "sé",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "eso."
+    ],
+    "options": [
+      "No.",
+      "No",
+      "sé",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "eso."
+    ]
+  },
+  {
+    "question": "a word",
+    "answer": "una palabra",
+    "answerarray": [
+      "una",
+      "palabra"
+    ],
+    "options": [
+      "una",
+      "palabra"
+    ]
+  },
+  {
+    "question": "There are three words here that I don’t understand.",
+    "answer": "Hay tres palabras aquí que no entiendo.",
+    "answerarray": [
+      "Hay",
+      "tres",
+      "palabras",
+      "aquí",
+      "que",
+      "no",
+      "entiendo."
+    ],
+    "options": [
+      "Hay",
+      "tres",
+      "palabras",
+      "aquí",
+      "que",
+      "no",
+      "entiendo."
+    ]
+  },
+  {
+    "question": "Do you know what this word means?",
+    "answer": "¿Sabes lo que quiere decir esta palabra?",
+    "answerarray": [
+      "¿Sabes",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "esta",
+      "palabra?"
+    ],
+    "options": [
+      "¿Sabes",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "esta",
+      "palabra?"
+    ]
+  },
+  {
+    "question": "I don’t know what that word means, but I know that it doesn’t mean “swimming pool”",
+    "answer": "No sé lo que quiere decir esa palabra, pero sé que no quiere decir “piscina”.",
+    "answerarray": [
+      "No",
+      "sé",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "esa",
+      "palabra,",
+      "pero",
+      "sé",
+      "que",
+      "no",
+      "quiere",
+      "decir",
+      "“piscina”."
+    ],
+    "options": [
+      "No",
+      "sé",
+      "lo",
+      "que",
+      "quiere",
+      "decir",
+      "esa",
+      "palabra,",
+      "pero",
+      "sé",
+      "que",
+      "no",
+      "quiere",
+      "decir",
+      "“piscina”."
+    ]
+  },
+  {
+    "question": "My name is Juan.",
+    "answer": "Mi nombre es Juan.",
+    "answerarray": [
+      "Mi",
+      "nombre",
+      "es",
+      "Juan."
+    ],
+    "options": [
+      "Mi",
+      "nombre",
+      "es",
+      "Juan."
+    ]
+  },
+  {
+    "question": "Her name is Carolina.",
+    "answer": "Su nombre es Carolina.",
+    "answerarray": [
+      "Su",
+      "nombre",
+      "es",
+      "Carolina."
+    ],
+    "options": [
+      "Su",
+      "nombre",
+      "es",
+      "Carolina."
+    ]
+  },
+  {
+    "question": "His name isn’t David. It’s Carlos.",
+    "answer": "Su nombre no es David. Es Carlos.",
+    "answerarray": [
+      "Su",
+      "nombre",
+      "no",
+      "es",
+      "David.",
+      "Es",
+      "Carlos."
+    ],
+    "options": [
+      "Su",
+      "nombre",
+      "no",
+      "es",
+      "David.",
+      "Es",
+      "Carlos."
+    ]
+  },
+  {
+    "question": "to write",
+    "answer": "escribir",
+    "answerarray": [
+      "escribir"
+    ],
+    "options": [
+      "escribir"
+    ]
+  },
+  {
+    "question": "I'm going to write your name.",
+    "answer": "Voy a escribir tu nombre.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "escribir",
+      "tu",
+      "nombre."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "escribir",
+      "tu",
+      "nombre."
+    ]
+  },
+  {
+    "question": "We’re going to write three words in the book.",
+    "answer": "Vamos a escribir tres palabras en el libro.",
+    "answerarray": [
+      "Vamos",
+      "a",
+      "escribir",
+      "tres",
+      "palabras",
+      "en",
+      "el",
+      "libro."
+    ],
+    "options": [
+      "Vamos",
+      "a",
+      "escribir",
+      "tres",
+      "palabras",
+      "en",
+      "el",
+      "libro."
+    ]
+  },
+  {
+    "question": "Write it there, near your name.",
+    "answer": "Escríbelo allí, cerca de tu nombre.",
+    "answerarray": [
+      "Escríbelo",
+      "allí,",
+      "cerca",
+      "de",
+      "tu",
+      "nombre."
+    ],
+    "options": [
+      "Escríbelo",
+      "allí,",
+      "cerca",
+      "de",
+      "tu",
+      "nombre."
+    ]
+  },
+  {
+    "question": "Write Maria’s name near your name.",
+    "answer": "Escribe el nombre de Maria cerca de tu nombre.",
+    "answerarray": [
+      "Escribe",
+      "el",
+      "nombre",
+      "de",
+      "Maria",
+      "cerca",
+      "de",
+      "tu",
+      "nombre."
+    ],
+    "options": [
+      "Escribe",
+      "el",
+      "nombre",
+      "de",
+      "Maria",
+      "cerca",
+      "de",
+      "tu",
+      "nombre."
+    ]
+  },
+  {
+    "question": "They write it too small for me.",
+    "answer": "Lo escriben demasiado pequeño para mí.",
+    "answerarray": [
+      "Lo",
+      "escriben",
+      "demasiado",
+      "pequeño",
+      "para",
+      "mí."
+    ],
+    "options": [
+      "Lo",
+      "escriben",
+      "demasiado",
+      "pequeño",
+      "para",
+      "mí."
+    ]
+  },
+  {
+    "question": "writing",
+    "answer": "escribiendo",
+    "answerarray": [
+      "escribiendo"
+    ],
+    "options": [
+      "escribiendo"
+    ]
+  },
+  {
+    "question": "I'm writing.",
+    "answer": "Estoy escribiendo.",
+    "answerarray": [
+      "Estoy",
+      "escribiendo."
+    ],
+    "options": [
+      "Estoy",
+      "escribiendo."
+    ]
+  },
+  {
+    "question": "I’m doing it.",
+    "answer": "Lo estoy haciendo.",
+    "answerarray": [
+      "Lo",
+      "estoy",
+      "haciendo."
+    ],
+    "options": [
+      "Lo",
+      "estoy",
+      "haciendo."
+    ]
+  },
+  {
+    "question": "What are you writing?",
+    "answer": "¿Qué estas escribiendo?",
+    "answerarray": [
+      "¿Qué",
+      "estas",
+      "escribiendo?"
+    ],
+    "options": [
+      "¿Qué",
+      "estas",
+      "escribiendo?"
+    ]
+  },
+  {
+    "question": "What are you eating?",
+    "answer": "¿Qué estas comiendo?",
+    "answerarray": [
+      "¿Qué",
+      "estas",
+      "comiendo?"
+    ],
+    "options": [
+      "¿Qué",
+      "estas",
+      "comiendo?"
+    ]
+  },
+  {
+    "question": "Why are they having lunch at four o’clock?",
+    "answer": "¿Por qué están comiendo a las cuatro?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "están",
+      "comiendo",
+      "a",
+      "las",
+      "cuatro?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "están",
+      "comiendo",
+      "a",
+      "las",
+      "cuatro?"
+    ]
+  },
+  {
+    "question": "She's writing a book.",
+    "answer": "Está escribiendo un libro.",
+    "answerarray": [
+      "Está",
+      "escribiendo",
+      "un",
+      "libro."
+    ],
+    "options": [
+      "Está",
+      "escribiendo",
+      "un",
+      "libro."
+    ]
+  },
+  {
+    "question": "I get up at seven o’clock.",
+    "answer": "Me levanto a las siete.",
+    "answerarray": [
+      "Me",
+      "levanto",
+      "a",
+      "las",
+      "siete."
+    ],
+    "options": [
+      "Me",
+      "levanto",
+      "a",
+      "las",
+      "siete."
+    ]
+  },
+  {
+    "question": "to get up/to get oneself up",
+    "answer": "levantarse",
+    "answerarray": [
+      "levantarse"
+    ],
+    "options": [
+      "levantarse"
+    ]
+  },
+  {
+    "question": "to stay/remain",
+    "answer": "quedarse",
+    "answerarray": [
+      "quedarse"
+    ],
+    "options": [
+      "quedarse"
+    ]
+  },
+  {
+    "question": "I’m staying here tomorrow",
+    "answer": "Me quedo aqui mañana.",
+    "answerarray": [
+      "Me",
+      "quedo",
+      "aqui",
+      "mañana."
+    ],
+    "options": [
+      "Me",
+      "quedo",
+      "aqui",
+      "mañana."
+    ]
+  },
+  {
+    "question": "I'm not staying here.",
+    "answer": "No me quedo aquí.",
+    "answerarray": [
+      "No",
+      "me",
+      "quedo",
+      "aquí."
+    ],
+    "options": [
+      "No",
+      "me",
+      "quedo",
+      "aquí."
+    ]
+  },
+  {
+    "question": "You’re staying with me.",
+    "answer": "Te quedas conmigo.",
+    "answerarray": [
+      "Te",
+      "quedas",
+      "conmigo."
+    ],
+    "options": [
+      "Te",
+      "quedas",
+      "conmigo."
+    ]
+  },
+  {
+    "question": "I want to stay with you",
+    "answer": "Quiero quedarme contigo.",
+    "answerarray": [
+      "Quiero",
+      "quedarme",
+      "contigo."
+    ],
+    "options": [
+      "Quiero",
+      "quedarme",
+      "contigo."
+    ]
+  },
+  {
+    "question": "Do you want to stay with her?",
+    "answer": "Quieres quedarte con ella?",
+    "answerarray": [
+      "Quieres",
+      "quedarte",
+      "con",
+      "ella?"
+    ],
+    "options": [
+      "Quieres",
+      "quedarte",
+      "con",
+      "ella?"
+    ]
+  },
+  {
+    "question": "She doesn’t want to stay here",
+    "answer": "No quiere quedarse aquí",
+    "answerarray": [
+      "No",
+      "quiere",
+      "quedarse",
+      "aquí"
+    ],
+    "options": [
+      "No",
+      "quiere",
+      "quedarse",
+      "aquí"
+    ]
+  },
+  {
+    "question": "ourselves (reflexive form)",
+    "answer": "nos",
+    "answerarray": [
+      "nos"
+    ],
+    "options": [
+      "nos"
+    ]
+  },
+  {
+    "question": "We get up at 6 o’clock",
+    "answer": "Nos levantamos a las seis.",
+    "answerarray": [
+      "Nos",
+      "levantamos",
+      "a",
+      "las",
+      "seis."
+    ],
+    "options": [
+      "Nos",
+      "levantamos",
+      "a",
+      "las",
+      "seis."
+    ]
+  },
+  {
+    "question": "We have to get up soon.",
+    "answer": "Tenemos que levantarnos pronto.",
+    "answerarray": [
+      "Tenemos",
+      "que",
+      "levantarnos",
+      "pronto."
+    ],
+    "options": [
+      "Tenemos",
+      "que",
+      "levantarnos",
+      "pronto."
+    ]
+  },
+  {
+    "question": "I'm sorry but we’re staying here.",
+    "answer": "Lo siento pero nos quedamos aquí.",
+    "answerarray": [
+      "Lo",
+      "siento",
+      "pero",
+      "nos",
+      "quedamos",
+      "aquí."
+    ],
+    "options": [
+      "Lo",
+      "siento",
+      "pero",
+      "nos",
+      "quedamos",
+      "aquí."
+    ]
+  },
+  {
+    "question": "We are going to stay near the hotel this afternoon.",
+    "answer": "Vamos a quedarnos cerca del hotel esta tarde.",
+    "answerarray": [
+      "Vamos",
+      "a",
+      "quedarnos",
+      "cerca",
+      "del",
+      "hotel",
+      "esta",
+      "tarde."
+    ],
+    "options": [
+      "Vamos",
+      "a",
+      "quedarnos",
+      "cerca",
+      "del",
+      "hotel",
+      "esta",
+      "tarde."
+    ]
+  },
+  {
+    "question": "We are staying here because its very late and we’re tired.",
+    "answer": "Nos quedamos aquí porque es muy tarde y estamos cansados/as.",
+    "answerarray": [
+      "Nos",
+      "quedamos",
+      "aquí",
+      "porque",
+      "es",
+      "muy",
+      "tarde",
+      "y",
+      "estamos",
+      "cansados/as."
+    ],
+    "options": [
+      "Nos",
+      "quedamos",
+      "aquí",
+      "porque",
+      "es",
+      "muy",
+      "tarde",
+      "y",
+      "estamos",
+      "cansados/as."
+    ]
+  },
+  {
+    "question": "yourselves (reflexive form)",
+    "answer": "os",
+    "answerarray": [
+      "os"
+    ],
+    "options": [
+      "os"
+    ]
+  },
+  {
+    "question": "You get up at 7 o’clock.",
+    "answer": "Os levantáis a las siete.",
+    "answerarray": [
+      "Os",
+      "levantáis",
+      "a",
+      "las",
+      "siete."
+    ],
+    "options": [
+      "Os",
+      "levantáis",
+      "a",
+      "las",
+      "siete."
+    ]
+  },
+  {
+    "question": "Are you staying here today?",
+    "answer": "¿Os quedáis aqui hoy?",
+    "answerarray": [
+      "¿Os",
+      "quedáis",
+      "aqui",
+      "hoy?"
+    ],
+    "options": [
+      "¿Os",
+      "quedáis",
+      "aqui",
+      "hoy?"
+    ]
+  },
+  {
+    "question": "When are you getting up?",
+    "answer": "¿Cuándo os levantáis?",
+    "answerarray": [
+      "¿Cuándo",
+      "os",
+      "levantáis?"
+    ],
+    "options": [
+      "¿Cuándo",
+      "os",
+      "levantáis?"
+    ]
+  },
+  {
+    "question": "Why do you get up at 6 o’clock?",
+    "answer": "¿Por qué os levantáis a la seis?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "os",
+      "levantáis",
+      "a",
+      "la",
+      "seis?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "os",
+      "levantáis",
+      "a",
+      "la",
+      "seis?"
+    ]
+  },
+  {
+    "question": "themselves (reflexive form)",
+    "answer": "se",
+    "answerarray": [
+      "se"
+    ],
+    "options": [
+      "se"
+    ]
+  },
+  {
+    "question": "When do they get up?",
+    "answer": "¿Cuándo se levantan?",
+    "answerarray": [
+      "¿Cuándo",
+      "se",
+      "levantan?"
+    ],
+    "options": [
+      "¿Cuándo",
+      "se",
+      "levantan?"
+    ]
+  },
+  {
+    "question": "Why don't they stay here?",
+    "answer": "¿Por qué no se quedan aquí?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "no",
+      "se",
+      "quedan",
+      "aquí?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "no",
+      "se",
+      "quedan",
+      "aquí?"
+    ]
+  },
+  {
+    "question": "Are they getting up soon?",
+    "answer": "¿Se levantan pronto?",
+    "answerarray": [
+      "¿Se",
+      "levantan",
+      "pronto?"
+    ],
+    "options": [
+      "¿Se",
+      "levantan",
+      "pronto?"
+    ]
+  },
+  {
+    "question": "They are staying near the beach this afternoon.",
+    "answer": "Se quedan cerca de la playa esta tarde.",
+    "answerarray": [
+      "Se",
+      "quedan",
+      "cerca",
+      "de",
+      "la",
+      "playa",
+      "esta",
+      "tarde."
+    ],
+    "options": [
+      "Se",
+      "quedan",
+      "cerca",
+      "de",
+      "la",
+      "playa",
+      "esta",
+      "tarde."
+    ]
+  },
+  {
+    "question": "to go",
+    "answer": "ir",
+    "answerarray": [
+      "ir"
+    ],
+    "options": [
+      "ir"
+    ]
+  },
+  {
+    "question": "I'm going to do it.",
+    "answer": "Voy a hacerlo.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "hacerlo."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "hacerlo."
+    ]
+  },
+  {
+    "question": "Are you going to do it?",
+    "answer": "¿Vas a hacerlo?",
+    "answerarray": [
+      "¿Vas",
+      "a",
+      "hacerlo?"
+    ],
+    "options": [
+      "¿Vas",
+      "a",
+      "hacerlo?"
+    ]
+  },
+  {
+    "question": "She's going to need it.",
+    "answer": "Va a necesitarlo.",
+    "answerarray": [
+      "Va",
+      "a",
+      "necesitarlo."
+    ],
+    "options": [
+      "Va",
+      "a",
+      "necesitarlo."
+    ]
+  },
+  {
+    "question": "We're going to Madrid.",
+    "answer": "Vamos a Madrid.",
+    "answerarray": [
+      "Vamos",
+      "a",
+      "Madrid."
+    ],
+    "options": [
+      "Vamos",
+      "a",
+      "Madrid."
+    ]
+  },
+  {
+    "question": "We’re going to go to Madrid.",
+    "answer": "Vamos a ir a Madrid.",
+    "answerarray": [
+      "Vamos",
+      "a",
+      "ir",
+      "a",
+      "Madrid."
+    ],
+    "options": [
+      "Vamos",
+      "a",
+      "ir",
+      "a",
+      "Madrid."
+    ]
+  },
+  {
+    "question": "you (plural) go/are going",
+    "answer": "vais",
+    "answerarray": [
+      "vais"
+    ],
+    "options": [
+      "vais"
+    ]
+  },
+  {
+    "question": "they go/are going",
+    "answer": "van",
+    "answerarray": [
+      "van"
+    ],
+    "options": [
+      "van"
+    ]
+  },
+  {
+    "question": "You (plural) are going to do it for me.",
+    "answer": "Vais a hacerlo para mí.",
+    "answerarray": [
+      "Vais",
+      "a",
+      "hacerlo",
+      "para",
+      "mí."
+    ],
+    "options": [
+      "Vais",
+      "a",
+      "hacerlo",
+      "para",
+      "mí."
+    ]
+  },
+  {
+    "question": "They are going to arrive tomorrow.",
+    "answer": "Van a llegar mañana.",
+    "answerarray": [
+      "Van",
+      "a",
+      "llegar",
+      "mañana."
+    ],
+    "options": [
+      "Van",
+      "a",
+      "llegar",
+      "mañana."
+    ]
+  },
+  {
+    "question": "They are going to do it too quickly/fast.",
+    "answer": "Van a hacerlo demasiado rápido.",
+    "answerarray": [
+      "Van",
+      "a",
+      "hacerlo",
+      "demasiado",
+      "rápido."
+    ],
+    "options": [
+      "Van",
+      "a",
+      "hacerlo",
+      "demasiado",
+      "rápido."
+    ]
+  },
+  {
+    "question": "What kind of car are they going to need?",
+    "answer": "¿Qué tipo de coche van a necesitar?",
+    "answerarray": [
+      "¿Qué",
+      "tipo",
+      "de",
+      "coche",
+      "van",
+      "a",
+      "necesitar?"
+    ],
+    "options": [
+      "¿Qué",
+      "tipo",
+      "de",
+      "coche",
+      "van",
+      "a",
+      "necesitar?"
+    ]
+  },
+  {
+    "question": "to go away/to leave",
+    "answer": "irse",
+    "answerarray": [
+      "irse"
+    ],
+    "options": [
+      "irse"
+    ]
+  },
+  {
+    "question": "I’m leaving",
+    "answer": "me voy",
+    "answerarray": [
+      "me",
+      "voy"
+    ],
+    "options": [
+      "me",
+      "voy"
+    ]
+  },
+  {
+    "question": "I’m leaving/going away soon.",
+    "answer": "Me voy pronto.",
+    "answerarray": [
+      "Me",
+      "voy",
+      "pronto."
+    ],
+    "options": [
+      "Me",
+      "voy",
+      "pronto."
+    ]
+  },
+  {
+    "question": "He’s leaving at eight.",
+    "answer": "Se va a las ocho.",
+    "answerarray": [
+      "Se",
+      "va",
+      "a",
+      "las",
+      "ocho."
+    ],
+    "options": [
+      "Se",
+      "va",
+      "a",
+      "las",
+      "ocho."
+    ]
+  },
+  {
+    "question": "Are you (singular, informal) leaving now?",
+    "answer": "¿Te vas ahora?",
+    "answerarray": [
+      "¿Te",
+      "vas",
+      "ahora?"
+    ],
+    "options": [
+      "¿Te",
+      "vas",
+      "ahora?"
+    ]
+  },
+  {
+    "question": "We're leaving tomorrow.",
+    "answer": "Nos vamos mañana.",
+    "answerarray": [
+      "Nos",
+      "vamos",
+      "mañana."
+    ],
+    "options": [
+      "Nos",
+      "vamos",
+      "mañana."
+    ]
+  },
+  {
+    "question": "When are you (plural) leaving?",
+    "answer": "¿Cuándo os vais?",
+    "answerarray": [
+      "¿Cuándo",
+      "os",
+      "vais?"
+    ],
+    "options": [
+      "¿Cuándo",
+      "os",
+      "vais?"
+    ]
+  },
+  {
+    "question": "They are leaving on Monday.",
+    "answer": "Se van el lunes.",
+    "answerarray": [
+      "Se",
+      "van",
+      "el",
+      "lunes."
+    ],
+    "options": [
+      "Se",
+      "van",
+      "el",
+      "lunes."
+    ]
+  },
+  {
+    "question": "I would like to leave soon.",
+    "answer": "Me gustaría irme pronto.",
+    "answerarray": [
+      "Me",
+      "gustaría",
+      "irme",
+      "pronto."
+    ],
+    "options": [
+      "Me",
+      "gustaría",
+      "irme",
+      "pronto."
+    ]
+  },
+  {
+    "question": "You (singular, informal) have to leave now.",
+    "answer": "Tienes que irte ahora.",
+    "answerarray": [
+      "Tienes",
+      "que",
+      "irte",
+      "ahora."
+    ],
+    "options": [
+      "Tienes",
+      "que",
+      "irte",
+      "ahora."
+    ]
+  },
+  {
+    "question": "She doesn't want to leave on Tuesday.",
+    "answer": "No quiere irse el martes.",
+    "answerarray": [
+      "No",
+      "quiere",
+      "irse",
+      "el",
+      "martes."
+    ],
+    "options": [
+      "No",
+      "quiere",
+      "irse",
+      "el",
+      "martes."
+    ]
+  },
+  {
+    "question": "We can’t leave on Wednesday.",
+    "answer": "No podemos irnos el miecoles.",
+    "answerarray": [
+      "No",
+      "podemos",
+      "irnos",
+      "el",
+      "miecoles."
+    ],
+    "options": [
+      "No",
+      "podemos",
+      "irnos",
+      "el",
+      "miecoles."
+    ]
+  },
+  {
+    "question": "You (plural) have to leave with him.",
+    "answer": "Tenéis que iros con el.",
+    "answerarray": [
+      "Tenéis",
+      "que",
+      "iros",
+      "con",
+      "el."
+    ],
+    "options": [
+      "Tenéis",
+      "que",
+      "iros",
+      "con",
+      "el."
+    ]
+  },
+  {
+    "question": "How long?",
+    "answer": "¿cuánto tiempo?",
+    "answerarray": [
+      "¿cuánto",
+      "tiempo?"
+    ],
+    "options": [
+      "¿cuánto",
+      "tiempo?"
+    ]
+  },
+  {
+    "question": "How long are you (singular, informal) staying here?",
+    "answer": "¿cuánto tiempo te quedas aqui?",
+    "answerarray": [
+      "¿cuánto",
+      "tiempo",
+      "te",
+      "quedas",
+      "aqui?"
+    ],
+    "options": [
+      "¿cuánto",
+      "tiempo",
+      "te",
+      "quedas",
+      "aqui?"
+    ]
+  },
+  {
+    "question": "How long are you (plural) staying here?",
+    "answer": "¿cuánto tiempo os quedáis aquí?",
+    "answerarray": [
+      "¿cuánto",
+      "tiempo",
+      "os",
+      "quedáis",
+      "aquí?"
+    ],
+    "options": [
+      "¿cuánto",
+      "tiempo",
+      "os",
+      "quedáis",
+      "aquí?"
+    ]
+  },
+  {
+    "question": "How long are we going to stay here?",
+    "answer": "¿cuánto tiempo vamos a quedarnos aquí?",
+    "answerarray": [
+      "¿cuánto",
+      "tiempo",
+      "vamos",
+      "a",
+      "quedarnos",
+      "aquí?"
+    ],
+    "options": [
+      "¿cuánto",
+      "tiempo",
+      "vamos",
+      "a",
+      "quedarnos",
+      "aquí?"
+    ]
+  },
+  {
+    "question": "How many times?",
+    "answer": "¿Cuántas veces?",
+    "answerarray": [
+      "¿Cuántas",
+      "veces?"
+    ],
+    "options": [
+      "¿Cuántas",
+      "veces?"
+    ]
+  },
+  {
+    "question": "How many times are you (singular, informal) going to go to the bank today?",
+    "answer": "¿Cuántas veces vas a ir al banco hoy?",
+    "answerarray": [
+      "¿Cuántas",
+      "veces",
+      "vas",
+      "a",
+      "ir",
+      "al",
+      "banco",
+      "hoy?"
+    ],
+    "options": [
+      "¿Cuántas",
+      "veces",
+      "vas",
+      "a",
+      "ir",
+      "al",
+      "banco",
+      "hoy?"
+    ]
+  },
+  {
+    "question": "How many times is she going to call her?",
+    "answer": "¿Cuántas veces va a llamarla?",
+    "answerarray": [
+      "¿Cuántas",
+      "veces",
+      "va",
+      "a",
+      "llamarla?"
+    ],
+    "options": [
+      "¿Cuántas",
+      "veces",
+      "va",
+      "a",
+      "llamarla?"
+    ]
+  },
+  {
+    "question": "For how how long do you (singular, informal) need it ?",
+    "answer": "¿Para cuánto tiempo lo necesitas?",
+    "answerarray": [
+      "¿Para",
+      "cuánto",
+      "tiempo",
+      "lo",
+      "necesitas?"
+    ],
+    "options": [
+      "¿Para",
+      "cuánto",
+      "tiempo",
+      "lo",
+      "necesitas?"
+    ]
+  },
+  {
+    "question": "I'm writing it (right now)",
+    "answer": "Lo estoy escribiendo.",
+    "answerarray": [
+      "Lo",
+      "estoy",
+      "escribiendo."
+    ],
+    "options": [
+      "Lo",
+      "estoy",
+      "escribiendo."
+    ]
+  },
+  {
+    "question": "They are writing it. (right now)",
+    "answer": "Lo están escribiendo.",
+    "answerarray": [
+      "Lo",
+      "están",
+      "escribiendo."
+    ],
+    "options": [
+      "Lo",
+      "están",
+      "escribiendo."
+    ]
+  },
+  {
+    "question": "I'm writing it for her because she can’t do it.",
+    "answer": "Lo estoy escribiendo para ella porque (ella) no puede hacerlo.",
+    "answerarray": [
+      "Lo",
+      "estoy",
+      "escribiendo",
+      "para",
+      "ella",
+      "porque",
+      "(ella)",
+      "no",
+      "puede",
+      "hacerlo."
+    ],
+    "options": [
+      "Lo",
+      "estoy",
+      "escribiendo",
+      "para",
+      "ella",
+      "porque",
+      "(ella)",
+      "no",
+      "puede",
+      "hacerlo."
+    ]
+  },
+  {
+    "question": "Why is she writing it in green?",
+    "answer": "¿Por qué lo está escribiendo en verde?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "lo",
+      "está",
+      "escribiendo",
+      "en",
+      "verde?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "lo",
+      "está",
+      "escribiendo",
+      "en",
+      "verde?"
+    ]
+  },
+  {
+    "question": "I'm eating it.",
+    "answer": "Lo estoy comiendo.",
+    "answerarray": [
+      "Lo",
+      "estoy",
+      "comiendo."
+    ],
+    "options": [
+      "Lo",
+      "estoy",
+      "comiendo."
+    ]
+  },
+  {
+    "question": "Are you (tú) leaving now?",
+    "answer": "(salir) ¿Estás saliendo ahora?",
+    "answerarray": [
+      "(salir)",
+      "¿Estás",
+      "saliendo",
+      "ahora?"
+    ],
+    "options": [
+      "(salir)",
+      "¿Estás",
+      "saliendo",
+      "ahora?"
+    ]
+  },
+  {
+    "question": "to work",
+    "answer": "trabajar",
+    "answerarray": [
+      "trabajar"
+    ],
+    "options": [
+      "trabajar"
+    ]
+  },
+  {
+    "question": "I have to work on Sunday.",
+    "answer": "Tengo que trabajar el domingo.",
+    "answerarray": [
+      "Tengo",
+      "que",
+      "trabajar",
+      "el",
+      "domingo."
+    ],
+    "options": [
+      "Tengo",
+      "que",
+      "trabajar",
+      "el",
+      "domingo."
+    ]
+  },
+  {
+    "question": "I can't speak now because I’m working.",
+    "answer": "No puedo hablar ahora porque estoy trabajando.",
+    "answerarray": [
+      "No",
+      "puedo",
+      "hablar",
+      "ahora",
+      "porque",
+      "estoy",
+      "trabajando."
+    ],
+    "options": [
+      "No",
+      "puedo",
+      "hablar",
+      "ahora",
+      "porque",
+      "estoy",
+      "trabajando."
+    ]
+  },
+  {
+    "question": "They don't work on Wednesday.",
+    "answer": "No trabajan el miércoles.",
+    "answerarray": [
+      "No",
+      "trabajan",
+      "el",
+      "miércoles."
+    ],
+    "options": [
+      "No",
+      "trabajan",
+      "el",
+      "miércoles."
+    ]
+  },
+  {
+    "question": "Why aren't you working",
+    "answer": "¿Por qué no estás trabajando?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "no",
+      "estás",
+      "trabajando?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "no",
+      "estás",
+      "trabajando?"
+    ]
+  },
+  {
+    "question": "I'm working",
+    "answer": "trabajo",
+    "answerarray": [
+      "trabajo"
+    ],
+    "options": [
+      "trabajo"
+    ]
+  },
+  {
+    "question": "I'm not working because it’s six o’clock.",
+    "answer": "No trabajo porque son las seis.",
+    "answerarray": [
+      "No",
+      "trabajo",
+      "porque",
+      "son",
+      "las",
+      "seis."
+    ],
+    "options": [
+      "No",
+      "trabajo",
+      "porque",
+      "son",
+      "las",
+      "seis."
+    ]
+  },
+  {
+    "question": "I'm having lunch",
+    "answer": "estoy comiendo",
+    "answerarray": [
+      "estoy",
+      "comiendo"
+    ],
+    "options": [
+      "estoy",
+      "comiendo"
+    ]
+  },
+  {
+    "question": "She can’t do it now because she’s having lunch.",
+    "answer": "No puede hacerlo ahora porque come. /… está comiendo.",
+    "answerarray": [
+      "No",
+      "puede",
+      "hacerlo",
+      "ahora",
+      "porque",
+      "come.",
+      "/…",
+      "está",
+      "comiendo."
+    ],
+    "options": [
+      "No",
+      "puede",
+      "hacerlo",
+      "ahora",
+      "porque",
+      "come.",
+      "/…",
+      "está",
+      "comiendo."
+    ]
+  },
+  {
+    "question": "What are you doing tonight?",
+    "answer": "¿Qué haces esta noche?",
+    "answerarray": [
+      "¿Qué",
+      "haces",
+      "esta",
+      "noche?"
+    ],
+    "options": [
+      "¿Qué",
+      "haces",
+      "esta",
+      "noche?"
+    ]
+  },
+  {
+    "question": "What are you doing? (right now)",
+    "answer": "Qué estás haciendo?",
+    "answerarray": [
+      "Qué",
+      "estás",
+      "haciendo?"
+    ],
+    "options": [
+      "Qué",
+      "estás",
+      "haciendo?"
+    ]
+  },
+  {
+    "question": "What is she writing?",
+    "answer": "¿Qué está escribiendo?",
+    "answerarray": [
+      "¿Qué",
+      "está",
+      "escribiendo?"
+    ],
+    "options": [
+      "¿Qué",
+      "está",
+      "escribiendo?"
+    ]
+  },
+  {
+    "question": "to say/tell",
+    "answer": "decir",
+    "answerarray": [
+      "decir"
+    ],
+    "options": [
+      "decir"
+    ]
+  },
+  {
+    "question": "What are you saying?",
+    "answer": "¿Qué estás diciendo?",
+    "answerarray": [
+      "¿Qué",
+      "estás",
+      "diciendo?"
+    ],
+    "options": [
+      "¿Qué",
+      "estás",
+      "diciendo?"
+    ]
+  },
+  {
+    "question": "I don't understand what you are telling me.",
+    "answer": "No entiendo lo que me estás diciendo.",
+    "answerarray": [
+      "No",
+      "entiendo",
+      "lo",
+      "que",
+      "me",
+      "estás",
+      "diciendo."
+    ],
+    "options": [
+      "No",
+      "entiendo",
+      "lo",
+      "que",
+      "me",
+      "estás",
+      "diciendo."
+    ]
+  },
+  {
+    "question": "I don't understand why you are not doing it.",
+    "answer": "No entiendo porque no lo estás haciendo.",
+    "answerarray": [
+      "No",
+      "entiendo",
+      "porque",
+      "no",
+      "lo",
+      "estás",
+      "haciendo."
+    ],
+    "options": [
+      "No",
+      "entiendo",
+      "porque",
+      "no",
+      "lo",
+      "estás",
+      "haciendo."
+    ]
+  },
+  {
+    "question": "a cash machine",
+    "answer": "un cajero automático",
+    "answerarray": [
+      "un",
+      "cajero",
+      "automático"
+    ],
+    "options": [
+      "un",
+      "cajero",
+      "automático"
+    ]
+  },
+  {
+    "question": "I need to go to the cash machine.",
+    "answer": "Necesito ir al cajero automático.",
+    "answerarray": [
+      "Necesito",
+      "ir",
+      "al",
+      "cajero",
+      "automático."
+    ],
+    "options": [
+      "Necesito",
+      "ir",
+      "al",
+      "cajero",
+      "automático."
+    ]
+  },
+  {
+    "question": "Is there a cash machine near here?",
+    "answer": "¿Hay un cajero automático cerca de aquí?",
+    "answerarray": [
+      "¿Hay",
+      "un",
+      "cajero",
+      "automático",
+      "cerca",
+      "de",
+      "aquí?"
+    ],
+    "options": [
+      "¿Hay",
+      "un",
+      "cajero",
+      "automático",
+      "cerca",
+      "de",
+      "aquí?"
+    ]
+  },
+  {
+    "question": "There are two cash machines in the hotel.",
+    "answer": "Hay dos cajeros automáticos en el hotel.",
+    "answerarray": [
+      "Hay",
+      "dos",
+      "cajeros",
+      "automáticos",
+      "en",
+      "el",
+      "hotel."
+    ],
+    "options": [
+      "Hay",
+      "dos",
+      "cajeros",
+      "automáticos",
+      "en",
+      "el",
+      "hotel."
+    ]
+  },
+  {
+    "question": "What does “cajero automático” mean?",
+    "answer": "¿Que quiere decir “cajero automático?",
+    "answerarray": [
+      "¿Que",
+      "quiere",
+      "decir",
+      "“cajero",
+      "automático?"
+    ],
+    "options": [
+      "¿Que",
+      "quiere",
+      "decir",
+      "“cajero",
+      "automático?"
+    ]
+  },
+  {
+    "question": "I have",
+    "answer": "tengo",
+    "answerarray": [
+      "tengo"
+    ],
+    "options": [
+      "tengo"
+    ]
+  },
+  {
+    "question": "I have a lot of money.",
+    "answer": "Tengo mucho dinero.",
+    "answerarray": [
+      "Tengo",
+      "mucho",
+      "dinero."
+    ],
+    "options": [
+      "Tengo",
+      "mucho",
+      "dinero."
+    ]
+  },
+  {
+    "question": "I don’t have a lot of time.",
+    "answer": "No tengo mucho tiempo.",
+    "answerarray": [
+      "No",
+      "tengo",
+      "mucho",
+      "tiempo."
+    ],
+    "options": [
+      "No",
+      "tengo",
+      "mucho",
+      "tiempo."
+    ]
+  },
+  {
+    "question": "I put/I am putting",
+    "answer": "pongo",
+    "answerarray": [
+      "pongo"
+    ],
+    "options": [
+      "pongo"
+    ]
+  },
+  {
+    "question": "I'm putting it on the table.",
+    "answer": "Lo pongo en la mesa.",
+    "answerarray": [
+      "Lo",
+      "pongo",
+      "en",
+      "la",
+      "mesa."
+    ],
+    "options": [
+      "Lo",
+      "pongo",
+      "en",
+      "la",
+      "mesa."
+    ]
+  },
+  {
+    "question": "I leave/I am leaving (also: I go out)",
+    "answer": "salgo",
+    "answerarray": [
+      "salgo"
+    ],
+    "options": [
+      "salgo"
+    ]
+  },
+  {
+    "question": "I'm leaving now because I have to work.",
+    "answer": "Salgo ahora porque tengo que trabajar.",
+    "answerarray": [
+      "Salgo",
+      "ahora",
+      "porque",
+      "tengo",
+      "que",
+      "trabajar."
+    ],
+    "options": [
+      "Salgo",
+      "ahora",
+      "porque",
+      "tengo",
+      "que",
+      "trabajar."
+    ]
+  },
+  {
+    "question": "I come/I am coming",
+    "answer": "vengo",
+    "answerarray": [
+      "vengo"
+    ],
+    "options": [
+      "vengo"
+    ]
+  },
+  {
+    "question": "I'm coming with her tomorrow.",
+    "answer": "Vengo con ella mañana.",
+    "answerarray": [
+      "Vengo",
+      "con",
+      "ella",
+      "mañana."
+    ],
+    "options": [
+      "Vengo",
+      "con",
+      "ella",
+      "mañana."
+    ]
+  },
+  {
+    "question": "I say/I am saying (also: I tell)",
+    "answer": "digo",
+    "answerarray": [
+      "digo"
+    ],
+    "options": [
+      "digo"
+    ]
+  },
+  {
+    "question": "I'm saying it three times because it’s important.",
+    "answer": "Lo digo tres veces porque es importante.",
+    "answerarray": [
+      "Lo",
+      "digo",
+      "tres",
+      "veces",
+      "porque",
+      "es",
+      "importante."
+    ],
+    "options": [
+      "Lo",
+      "digo",
+      "tres",
+      "veces",
+      "porque",
+      "es",
+      "importante."
+    ]
+  },
+  {
+    "question": "I do/I am doing",
+    "answer": "hago",
+    "answerarray": [
+      "hago"
+    ],
+    "options": [
+      "hago"
+    ]
+  },
+  {
+    "question": "I’m doing it on Thursday.",
+    "answer": "Lo hago el jueves.",
+    "answerarray": [
+      "Lo",
+      "hago",
+      "el",
+      "jueves."
+    ],
+    "options": [
+      "Lo",
+      "hago",
+      "el",
+      "jueves."
+    ]
+  },
+  {
+    "question": "to bring",
+    "answer": "traer",
+    "answerarray": [
+      "traer"
+    ],
+    "options": [
+      "traer"
+    ]
+  },
+  {
+    "question": "I'm not bringing it because it’s too big.",
+    "answer": "No lo traigo porque es demasiado grande.",
+    "answerarray": [
+      "No",
+      "lo",
+      "traigo",
+      "porque",
+      "es",
+      "demasiado",
+      "grande."
+    ],
+    "options": [
+      "No",
+      "lo",
+      "traigo",
+      "porque",
+      "es",
+      "demasiado",
+      "grande."
+    ]
+  },
+  {
+    "question": "Go out!",
+    "answer": "¡sal!",
+    "answerarray": [
+      "¡sal!"
+    ],
+    "options": [
+      "¡sal!"
+    ]
+  },
+  {
+    "question": "Don’t go out!",
+    "answer": "¡No salgas!",
+    "answerarray": [
+      "¡No",
+      "salgas!"
+    ],
+    "options": [
+      "¡No",
+      "salgas!"
+    ]
+  },
+  {
+    "question": "Put it here!",
+    "answer": "¡Ponlo aquí!",
+    "answerarray": [
+      "¡Ponlo",
+      "aquí!"
+    ],
+    "options": [
+      "¡Ponlo",
+      "aquí!"
+    ]
+  },
+  {
+    "question": "Don't put it there!",
+    "answer": "¡No lo pongas allí!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "pongas",
+      "allí!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "pongas",
+      "allí!"
+    ]
+  },
+  {
+    "question": "Put on the table!",
+    "answer": "¡Ponlo en la mesa!",
+    "answerarray": [
+      "¡Ponlo",
+      "en",
+      "la",
+      "mesa!"
+    ],
+    "options": [
+      "¡Ponlo",
+      "en",
+      "la",
+      "mesa!"
+    ]
+  },
+  {
+    "question": "Don't put it on the chair!",
+    "answer": "¡No lo pongas en la silla!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "pongas",
+      "en",
+      "la",
+      "silla!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "pongas",
+      "en",
+      "la",
+      "silla!"
+    ]
+  },
+  {
+    "question": "Say it!",
+    "answer": "¡Dilo!",
+    "answerarray": [
+      "¡Dilo!"
+    ],
+    "options": [
+      "¡Dilo!"
+    ]
+  },
+  {
+    "question": "Don't say it!",
+    "answer": "¡No lo digas!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "digas!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "digas!"
+    ]
+  },
+  {
+    "question": "Come with me!",
+    "answer": "¡Ven conmigo!",
+    "answerarray": [
+      "¡Ven",
+      "conmigo!"
+    ],
+    "options": [
+      "¡Ven",
+      "conmigo!"
+    ]
+  },
+  {
+    "question": "Don't come on Friday!",
+    "answer": "¡No vengas el viernes!",
+    "answerarray": [
+      "¡No",
+      "vengas",
+      "el",
+      "viernes!"
+    ],
+    "options": [
+      "¡No",
+      "vengas",
+      "el",
+      "viernes!"
+    ]
+  },
+  {
+    "question": "Do it now!",
+    "answer": "¡Hazlo ahora!",
+    "answerarray": [
+      "¡Hazlo",
+      "ahora!"
+    ],
+    "options": [
+      "¡Hazlo",
+      "ahora!"
+    ]
+  },
+  {
+    "question": "Don't do it with her!",
+    "answer": "¡No lo hagas con ella!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "hagas",
+      "con",
+      "ella!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "hagas",
+      "con",
+      "ella!"
+    ]
+  },
+  {
+    "question": "to bring",
+    "answer": "traer",
+    "answerarray": [
+      "traer"
+    ],
+    "options": [
+      "traer"
+    ]
+  },
+  {
+    "question": "Bring it!",
+    "answer": "¡Tráelo!",
+    "answerarray": [
+      "¡Tráelo!"
+    ],
+    "options": [
+      "¡Tráelo!"
+    ]
+  },
+  {
+    "question": "Don't bring it!",
+    "answer": "¡No lo traigas!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "traigas!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "traigas!"
+    ]
+  },
+  {
+    "question": "Don’t put the money on the table.",
+    "answer": "No pongas el dinero en la mesa.",
+    "answerarray": [
+      "No",
+      "pongas",
+      "el",
+      "dinero",
+      "en",
+      "la",
+      "mesa."
+    ],
+    "options": [
+      "No",
+      "pongas",
+      "el",
+      "dinero",
+      "en",
+      "la",
+      "mesa."
+    ]
+  },
+  {
+    "question": "Don’t put your phone on the chair.",
+    "answer": "No pongas tu teléfono en la silla.",
+    "answerarray": [
+      "No",
+      "pongas",
+      "tu",
+      "teléfono",
+      "en",
+      "la",
+      "silla."
+    ],
+    "options": [
+      "No",
+      "pongas",
+      "tu",
+      "teléfono",
+      "en",
+      "la",
+      "silla."
+    ]
+  },
+  {
+    "question": "Put the beers on the small table.",
+    "answer": "Pon las cervezas en la mesa pequeña.",
+    "answerarray": [
+      "Pon",
+      "las",
+      "cervezas",
+      "en",
+      "la",
+      "mesa",
+      "pequeña."
+    ],
+    "options": [
+      "Pon",
+      "las",
+      "cervezas",
+      "en",
+      "la",
+      "mesa",
+      "pequeña."
+    ]
+  },
+  {
+    "question": "Don't do it now because we’re leaving soon.",
+    "answer": "No lo hagas ahora porque nos vamos pronto.",
+    "answerarray": [
+      "No",
+      "lo",
+      "hagas",
+      "ahora",
+      "porque",
+      "nos",
+      "vamos",
+      "pronto."
+    ],
+    "options": [
+      "No",
+      "lo",
+      "hagas",
+      "ahora",
+      "porque",
+      "nos",
+      "vamos",
+      "pronto."
+    ]
+  },
+  {
+    "question": "Do it later because we’re not staying here.",
+    "answer": "Hazlo más tarde porque no nos quedamos aquí.",
+    "answerarray": [
+      "Hazlo",
+      "más",
+      "tarde",
+      "porque",
+      "no",
+      "nos",
+      "quedamos",
+      "aquí."
+    ],
+    "options": [
+      "Hazlo",
+      "más",
+      "tarde",
+      "porque",
+      "no",
+      "nos",
+      "quedamos",
+      "aquí."
+    ]
+  },
+  {
+    "question": "Say it slowly.",
+    "answer": "Dilo despacio.",
+    "answerarray": [
+      "Dilo",
+      "despacio."
+    ],
+    "options": [
+      "Dilo",
+      "despacio."
+    ]
+  },
+  {
+    "question": "Say it more slowly because she doesn’t understand English.",
+    "answer": "Dilo más despacio porque no entiende inglés.",
+    "answerarray": [
+      "Dilo",
+      "más",
+      "despacio",
+      "porque",
+      "no",
+      "entiende",
+      "inglés."
+    ],
+    "options": [
+      "Dilo",
+      "más",
+      "despacio",
+      "porque",
+      "no",
+      "entiende",
+      "inglés."
+    ]
+  },
+  {
+    "question": "Don't say that!",
+    "answer": "¡No digas eso!",
+    "answerarray": [
+      "¡No",
+      "digas",
+      "eso!"
+    ],
+    "options": [
+      "¡No",
+      "digas",
+      "eso!"
+    ]
+  },
+  {
+    "question": "Say this!",
+    "answer": "¡Di esto!",
+    "answerarray": [
+      "¡Di",
+      "esto!"
+    ],
+    "options": [
+      "¡Di",
+      "esto!"
+    ]
+  },
+  {
+    "question": "Don't come if you don’t want (to).",
+    "answer": "No vengas si no quieres.",
+    "answerarray": [
+      "No",
+      "vengas",
+      "si",
+      "no",
+      "quieres."
+    ],
+    "options": [
+      "No",
+      "vengas",
+      "si",
+      "no",
+      "quieres."
+    ]
+  },
+  {
+    "question": "Don't come if it’s too difficult for you.",
+    "answer": "No vengas si es demasiado difícil para ti.",
+    "answerarray": [
+      "No",
+      "vengas",
+      "si",
+      "es",
+      "demasiado",
+      "difícil",
+      "para",
+      "ti."
+    ],
+    "options": [
+      "No",
+      "vengas",
+      "si",
+      "es",
+      "demasiado",
+      "difícil",
+      "para",
+      "ti."
+    ]
+  },
+  {
+    "question": "Don't do it if you don’t like it.",
+    "answer": "No lo hagas si no te gusta.",
+    "answerarray": [
+      "No",
+      "lo",
+      "hagas",
+      "si",
+      "no",
+      "te",
+      "gusta."
+    ],
+    "options": [
+      "No",
+      "lo",
+      "hagas",
+      "si",
+      "no",
+      "te",
+      "gusta."
+    ]
+  },
+  {
+    "question": "Come now because we’re starting.",
+    "answer": "Ven ahora porque estamos empezando.",
+    "answerarray": [
+      "Ven",
+      "ahora",
+      "porque",
+      "estamos",
+      "empezando."
+    ],
+    "options": [
+      "Ven",
+      "ahora",
+      "porque",
+      "estamos",
+      "empezando."
+    ]
+  },
+  {
+    "question": "Don't come now. It’s too late.",
+    "answer": "No vengas ahora. Es demasiado tarde.",
+    "answerarray": [
+      "No",
+      "vengas",
+      "ahora.",
+      "Es",
+      "demasiado",
+      "tarde."
+    ],
+    "options": [
+      "No",
+      "vengas",
+      "ahora.",
+      "Es",
+      "demasiado",
+      "tarde."
+    ]
+  },
+  {
+    "question": "Don't do it today. It’s not important.",
+    "answer": "No lo hagas hoy. No es importante.",
+    "answerarray": [
+      "No",
+      "lo",
+      "hagas",
+      "hoy.",
+      "No",
+      "es",
+      "importante."
+    ],
+    "options": [
+      "No",
+      "lo",
+      "hagas",
+      "hoy.",
+      "No",
+      "es",
+      "importante."
+    ]
+  },
+  {
+    "question": "Don't do it like that!",
+    "answer": "¡No lo hagas así!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "hagas",
+      "así!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "hagas",
+      "así!"
+    ]
+  },
+  {
+    "question": "Come here! I want to tell you something.",
+    "answer": "¡Ven aquí! Quiero decirte algo.",
+    "answerarray": [
+      "¡Ven",
+      "aquí!",
+      "Quiero",
+      "decirte",
+      "algo."
+    ],
+    "options": [
+      "¡Ven",
+      "aquí!",
+      "Quiero",
+      "decirte",
+      "algo."
+    ]
+  },
+  {
+    "question": "Do number two first. It’s easier.",
+    "answer": "Haz el número dos primero. Es más fácil",
+    "answerarray": [
+      "Haz",
+      "el",
+      "número",
+      "dos",
+      "primero.",
+      "Es",
+      "más",
+      "fácil"
+    ],
+    "options": [
+      "Haz",
+      "el",
+      "número",
+      "dos",
+      "primero.",
+      "Es",
+      "más",
+      "fácil"
+    ]
+  },
+  {
+    "question": "Leave now!",
+    "answer": "¡Sal ahora!",
+    "answerarray": [
+      "¡Sal",
+      "ahora!"
+    ],
+    "options": [
+      "¡Sal",
+      "ahora!"
+    ]
+  },
+  {
+    "question": "Don't leave now if you want to see her.",
+    "answer": "No salgas ahora si quieres verla.",
+    "answerarray": [
+      "No",
+      "salgas",
+      "ahora",
+      "si",
+      "quieres",
+      "verla."
+    ],
+    "options": [
+      "No",
+      "salgas",
+      "ahora",
+      "si",
+      "quieres",
+      "verla."
+    ]
+  },
+  {
+    "question": "next to",
+    "answer": "al lado de",
+    "answerarray": [
+      "al",
+      "lado",
+      "de"
+    ],
+    "options": [
+      "al",
+      "lado",
+      "de"
+    ]
+  },
+  {
+    "question": "I live next to the market.",
+    "answer": "Vivo al lado del mercado.",
+    "answerarray": [
+      "Vivo",
+      "al",
+      "lado",
+      "del",
+      "mercado."
+    ],
+    "options": [
+      "Vivo",
+      "al",
+      "lado",
+      "del",
+      "mercado."
+    ]
+  },
+  {
+    "question": "My car is next to the house.",
+    "answer": "Mi coche está al lado de la casa.",
+    "answerarray": [
+      "Mi",
+      "coche",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "casa."
+    ],
+    "options": [
+      "Mi",
+      "coche",
+      "está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "casa."
+    ]
+  },
+  {
+    "question": "There's a a small restaurant next to the hotel.",
+    "answer": "Hay un restaurante pequeño al lado del hotel.",
+    "answerarray": [
+      "Hay",
+      "un",
+      "restaurante",
+      "pequeño",
+      "al",
+      "lado",
+      "del",
+      "hotel."
+    ],
+    "options": [
+      "Hay",
+      "un",
+      "restaurante",
+      "pequeño",
+      "al",
+      "lado",
+      "del",
+      "hotel."
+    ]
+  },
+  {
+    "question": "He works in a supermarket.",
+    "answer": "Trabaja en un supermercado.",
+    "answerarray": [
+      "Trabaja",
+      "en",
+      "un",
+      "supermercado."
+    ],
+    "options": [
+      "Trabaja",
+      "en",
+      "un",
+      "supermercado."
+    ]
+  },
+  {
+    "question": "Where’s the supermarket?",
+    "answer": "¿Dónde está el supermercado?",
+    "answerarray": [
+      "¿Dónde",
+      "está",
+      "el",
+      "supermercado?"
+    ],
+    "options": [
+      "¿Dónde",
+      "está",
+      "el",
+      "supermercado?"
+    ]
+  },
+  {
+    "question": "It's next to the beach.",
+    "answer": "Está al lado de la playa.",
+    "answerarray": [
+      "Está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "playa."
+    ],
+    "options": [
+      "Está",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "playa."
+    ]
+  },
+  {
+    "question": "to wait (for)",
+    "answer": "esperar",
+    "answerarray": [
+      "esperar"
+    ],
+    "options": [
+      "esperar"
+    ]
+  },
+  {
+    "question": "I am waiting for something.",
+    "answer": "Estoy esperando algo.",
+    "answerarray": [
+      "Estoy",
+      "esperando",
+      "algo."
+    ],
+    "options": [
+      "Estoy",
+      "esperando",
+      "algo."
+    ]
+  },
+  {
+    "question": "Wait for me.",
+    "answer": "Espérame.",
+    "answerarray": [
+      "Espérame."
+    ],
+    "options": [
+      "Espérame."
+    ]
+  },
+  {
+    "question": "Wait for me next to the swimming pool.",
+    "answer": "Espérame al lado de la piscina.",
+    "answerarray": [
+      "Espérame",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "piscina."
+    ],
+    "options": [
+      "Espérame",
+      "al",
+      "lado",
+      "de",
+      "la",
+      "piscina."
+    ]
+  },
+  {
+    "question": "I'm waiting for the car.",
+    "answer": "Estoy esperando el coche.",
+    "answerarray": [
+      "Estoy",
+      "esperando",
+      "el",
+      "coche."
+    ],
+    "options": [
+      "Estoy",
+      "esperando",
+      "el",
+      "coche."
+    ]
+  },
+  {
+    "question": "Wait for her.",
+    "answer": "Espérala.",
+    "answerarray": [
+      "Espérala."
+    ],
+    "options": [
+      "Espérala."
+    ]
+  },
+  {
+    "question": "Wait for him in front of the hotel.",
+    "answer": "Espéralo delante del hotel.",
+    "answerarray": [
+      "Espéralo",
+      "delante",
+      "del",
+      "hotel."
+    ],
+    "options": [
+      "Espéralo",
+      "delante",
+      "del",
+      "hotel."
+    ]
+  },
+  {
+    "question": "a day",
+    "answer": "un día",
+    "answerarray": [
+      "un",
+      "día"
+    ],
+    "options": [
+      "un",
+      "día"
+    ]
+  },
+  {
+    "question": "(for) two days",
+    "answer": "dos dias",
+    "answerarray": [
+      "dos",
+      "dias"
+    ],
+    "options": [
+      "dos",
+      "dias"
+    ]
+  },
+  {
+    "question": "Wait two days.",
+    "answer": "Espera dos dias.",
+    "answerarray": [
+      "Espera",
+      "dos",
+      "dias."
+    ],
+    "options": [
+      "Espera",
+      "dos",
+      "dias."
+    ]
+  },
+  {
+    "question": "I'm going to wait for three days.",
+    "answer": "Voy a esperar tres dias.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "esperar",
+      "tres",
+      "dias."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "esperar",
+      "tres",
+      "dias."
+    ]
+  },
+  {
+    "question": "a week",
+    "answer": "una semana",
+    "answerarray": [
+      "una",
+      "semana"
+    ],
+    "options": [
+      "una",
+      "semana"
+    ]
+  },
+  {
+    "question": "We’re here (for) a week.",
+    "answer": "Estamos aquí una semana.",
+    "answerarray": [
+      "Estamos",
+      "aquí",
+      "una",
+      "semana."
+    ],
+    "options": [
+      "Estamos",
+      "aquí",
+      "una",
+      "semana."
+    ]
+  },
+  {
+    "question": "We're going to Spain for three weeks.",
+    "answer": "Vamos a España tres semanas.",
+    "answerarray": [
+      "Vamos",
+      "a",
+      "España",
+      "tres",
+      "semanas."
+    ],
+    "options": [
+      "Vamos",
+      "a",
+      "España",
+      "tres",
+      "semanas."
+    ]
+  },
+  {
+    "question": "I'm going to wait a week and if it doesn’t arrive, I’m going to call.",
+    "answer": "Voy a esperar una semana y si no llega, voy a llamar.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "esperar",
+      "una",
+      "semana",
+      "y",
+      "si",
+      "no",
+      "llega,",
+      "voy",
+      "a",
+      "llamar."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "esperar",
+      "una",
+      "semana",
+      "y",
+      "si",
+      "no",
+      "llega,",
+      "voy",
+      "a",
+      "llamar."
+    ]
+  },
+  {
+    "question": "an hour",
+    "answer": "una hora",
+    "answerarray": [
+      "una",
+      "hora"
+    ],
+    "options": [
+      "una",
+      "hora"
+    ]
+  },
+  {
+    "question": "I’m leaving in a an hour.",
+    "answer": "Me Salgo en una hora.",
+    "answerarray": [
+      "Me",
+      "Salgo",
+      "en",
+      "una",
+      "hora."
+    ],
+    "options": [
+      "Me",
+      "Salgo",
+      "en",
+      "una",
+      "hora."
+    ]
+  },
+  {
+    "question": "Come in an hour.",
+    "answer": "Ven en una hora.",
+    "answerarray": [
+      "Ven",
+      "en",
+      "una",
+      "hora."
+    ],
+    "options": [
+      "Ven",
+      "en",
+      "una",
+      "hora."
+    ]
+  },
+  {
+    "question": "I can do it in two hours.",
+    "answer": "Puedo hacerlo en dos horas.",
+    "answerarray": [
+      "Puedo",
+      "hacerlo",
+      "en",
+      "dos",
+      "horas."
+    ],
+    "options": [
+      "Puedo",
+      "hacerlo",
+      "en",
+      "dos",
+      "horas."
+    ]
+  },
+  {
+    "question": "I can do it in two hours.",
+    "answer": "Puedo hacerlo en dos horas.",
+    "answerarray": [
+      "Puedo",
+      "hacerlo",
+      "en",
+      "dos",
+      "horas."
+    ],
+    "options": [
+      "Puedo",
+      "hacerlo",
+      "en",
+      "dos",
+      "horas."
+    ]
+  },
+  {
+    "question": "I would like to sell it in two weeks.",
+    "answer": "Me gustaría venderlo en dos semanas.",
+    "answerarray": [
+      "Me",
+      "gustaría",
+      "venderlo",
+      "en",
+      "dos",
+      "semanas."
+    ],
+    "options": [
+      "Me",
+      "gustaría",
+      "venderlo",
+      "en",
+      "dos",
+      "semanas."
+    ]
+  },
+  {
+    "question": "Call her in an hour.",
+    "answer": "Llámala en una hora.",
+    "answerarray": [
+      "Llámala",
+      "en",
+      "una",
+      "hora."
+    ],
+    "options": [
+      "Llámala",
+      "en",
+      "una",
+      "hora."
+    ]
+  },
+  {
+    "question": "If you do it quickly you can do it in a week.",
+    "answer": "Si lo haces rápido, puedes hacerlo en una semana.",
+    "answerarray": [
+      "Si",
+      "lo",
+      "haces",
+      "rápido,",
+      "puedes",
+      "hacerlo",
+      "en",
+      "una",
+      "semana."
+    ],
+    "options": [
+      "Si",
+      "lo",
+      "haces",
+      "rápido,",
+      "puedes",
+      "hacerlo",
+      "en",
+      "una",
+      "semana."
+    ]
+  },
+  {
+    "question": "to come back/return",
+    "answer": "volver",
+    "answerarray": [
+      "volver"
+    ],
+    "options": [
+      "volver"
+    ]
+  },
+  {
+    "question": "We are coming back in four days (time).",
+    "answer": "Volvemos en quatro días.",
+    "answerarray": [
+      "Volvemos",
+      "en",
+      "quatro",
+      "días."
+    ],
+    "options": [
+      "Volvemos",
+      "en",
+      "quatro",
+      "días."
+    ]
+  },
+  {
+    "question": "If you don’t come back in an hour, I’m not going to wait for you.",
+    "answer": "Si no vuelves en una hora, no voy a esperarte.",
+    "answerarray": [
+      "Si",
+      "no",
+      "vuelves",
+      "en",
+      "una",
+      "hora,",
+      "no",
+      "voy",
+      "a",
+      "esperarte."
+    ],
+    "options": [
+      "Si",
+      "no",
+      "vuelves",
+      "en",
+      "una",
+      "hora,",
+      "no",
+      "voy",
+      "a",
+      "esperarte."
+    ]
+  },
+  {
+    "question": "We can't do it this week.",
+    "answer": "No podemos hacerlo esta semana.",
+    "answerarray": [
+      "No",
+      "podemos",
+      "hacerlo",
+      "esta",
+      "semana."
+    ],
+    "options": [
+      "No",
+      "podemos",
+      "hacerlo",
+      "esta",
+      "semana."
+    ]
+  },
+  {
+    "question": "next week",
+    "answer": "la semana que viene",
+    "answerarray": [
+      "la",
+      "semana",
+      "que",
+      "viene"
+    ],
+    "options": [
+      "la",
+      "semana",
+      "que",
+      "viene"
+    ]
+  },
+  {
+    "question": "We are going to do it next week.",
+    "answer": "Vamos a hacerlo la semana que viene.",
+    "answerarray": [
+      "Vamos",
+      "a",
+      "hacerlo",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Vamos",
+      "a",
+      "hacerlo",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "I wouldn’t like to be here next week.",
+    "answer": "No me gustaría estar aquí la semana que viene.",
+    "answerarray": [
+      "No",
+      "me",
+      "gustaría",
+      "estar",
+      "aquí",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "No",
+      "me",
+      "gustaría",
+      "estar",
+      "aquí",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "I'm going to sell it next week.",
+    "answer": "Voy a venderlo la semana que viene.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "venderlo",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "venderlo",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "Why don't you sell it this week?",
+    "answer": "¿Por qué no lo vendes esta semana?",
+    "answerarray": [
+      "¿Por",
+      "qué",
+      "no",
+      "lo",
+      "vendes",
+      "esta",
+      "semana?"
+    ],
+    "options": [
+      "¿Por",
+      "qué",
+      "no",
+      "lo",
+      "vendes",
+      "esta",
+      "semana?"
+    ]
+  },
+  {
+    "question": "a year",
+    "answer": "un año",
+    "answerarray": [
+      "un",
+      "año"
+    ],
+    "options": [
+      "un",
+      "año"
+    ]
+  },
+  {
+    "question": "next year",
+    "answer": "el año que viene",
+    "answerarray": [
+      "el",
+      "año",
+      "que",
+      "viene"
+    ],
+    "options": [
+      "el",
+      "año",
+      "que",
+      "viene"
+    ]
+  },
+  {
+    "question": "Do it next year.",
+    "answer": "Hazlo el año que viene.",
+    "answerarray": [
+      "Hazlo",
+      "el",
+      "año",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Hazlo",
+      "el",
+      "año",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "Don't do it this year.",
+    "answer": "No lo hagas este año.",
+    "answerarray": [
+      "No",
+      "lo",
+      "hagas",
+      "este",
+      "año."
+    ],
+    "options": [
+      "No",
+      "lo",
+      "hagas",
+      "este",
+      "año."
+    ]
+  },
+  {
+    "question": "I want to buy a new house next year.",
+    "answer": "Quiero comprar una casa nueva el año que viene.",
+    "answerarray": [
+      "Quiero",
+      "comprar",
+      "una",
+      "casa",
+      "nueva",
+      "el",
+      "año",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Quiero",
+      "comprar",
+      "una",
+      "casa",
+      "nueva",
+      "el",
+      "año",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "Can I talk (speak) to you next week?",
+    "answer": "¿Puedo hablar contigo la semana que viene?",
+    "answerarray": [
+      "¿Puedo",
+      "hablar",
+      "contigo",
+      "la",
+      "semana",
+      "que",
+      "viene?"
+    ],
+    "options": [
+      "¿Puedo",
+      "hablar",
+      "contigo",
+      "la",
+      "semana",
+      "que",
+      "viene?"
+    ]
+  },
+  {
+    "question": "We can't start this week because it’s not ready.",
+    "answer": "No podemos empezar esta semana porque no está listo.",
+    "answerarray": [
+      "No",
+      "podemos",
+      "empezar",
+      "esta",
+      "semana",
+      "porque",
+      "no",
+      "está",
+      "listo."
+    ],
+    "options": [
+      "No",
+      "podemos",
+      "empezar",
+      "esta",
+      "semana",
+      "porque",
+      "no",
+      "está",
+      "listo."
+    ]
+  },
+  {
+    "question": "to give",
+    "answer": "dar",
+    "answerarray": [
+      "dar"
+    ],
+    "options": [
+      "dar"
+    ]
+  },
+  {
+    "question": "You can give me the money next week.",
+    "answer": "Puedes darme el dinero la semana que viene.",
+    "answerarray": [
+      "Puedes",
+      "darme",
+      "el",
+      "dinero",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Puedes",
+      "darme",
+      "el",
+      "dinero",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "He's giving me the book next week.",
+    "answer": "Me da el libro la semana que viene.",
+    "answerarray": [
+      "Me",
+      "da",
+      "el",
+      "libro",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Me",
+      "da",
+      "el",
+      "libro",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "It's very late.",
+    "answer": "Es muy tarde.",
+    "answerarray": [
+      "Es",
+      "muy",
+      "tarde."
+    ],
+    "options": [
+      "Es",
+      "muy",
+      "tarde."
+    ]
+  },
+  {
+    "question": "Yes. See you tomorrow. Good night.",
+    "answer": "Si. Hasta mañana. Buenas noches.",
+    "answerarray": [
+      "Si.",
+      "Hasta",
+      "mañana.",
+      "Buenas",
+      "noches."
+    ],
+    "options": [
+      "Si.",
+      "Hasta",
+      "mañana.",
+      "Buenas",
+      "noches."
+    ]
+  },
+  {
+    "question": "more",
+    "answer": "más",
+    "answerarray": [
+      "más"
+    ],
+    "options": [
+      "más"
+    ]
+  },
+  {
+    "question": "more than",
+    "answer": "más que",
+    "answerarray": [
+      "más",
+      "que"
+    ],
+    "options": [
+      "más",
+      "que"
+    ]
+  },
+  {
+    "question": "I eat more than you.",
+    "answer": "Como mas que tú.",
+    "answerarray": [
+      "Como",
+      "mas",
+      "que",
+      "tú."
+    ],
+    "options": [
+      "Como",
+      "mas",
+      "que",
+      "tú."
+    ]
+  },
+  {
+    "question": "You have more money than me (I).",
+    "answer": "Tienes más dinero que yo.",
+    "answerarray": [
+      "Tienes",
+      "más",
+      "dinero",
+      "que",
+      "yo."
+    ],
+    "options": [
+      "Tienes",
+      "más",
+      "dinero",
+      "que",
+      "yo."
+    ]
+  },
+  {
+    "question": "She gives me more than than you.",
+    "answer": "Me da más que tú.",
+    "answerarray": [
+      "Me",
+      "da",
+      "más",
+      "que",
+      "tú."
+    ],
+    "options": [
+      "Me",
+      "da",
+      "más",
+      "que",
+      "tú."
+    ]
+  },
+  {
+    "question": "I write more than Carlos.",
+    "answer": "Escribo más que Carlos.",
+    "answerarray": [
+      "Escribo",
+      "más",
+      "que",
+      "Carlos."
+    ],
+    "options": [
+      "Escribo",
+      "más",
+      "que",
+      "Carlos."
+    ]
+  },
+  {
+    "question": "He works more than me.",
+    "answer": "Trabaja más que yo.",
+    "answerarray": [
+      "Trabaja",
+      "más",
+      "que",
+      "yo."
+    ],
+    "options": [
+      "Trabaja",
+      "más",
+      "que",
+      "yo."
+    ]
+  },
+  {
+    "question": "I like the red book more than the green one.",
+    "answer": "Me gusta el libro rojo más que el verde.",
+    "answerarray": [
+      "Me",
+      "gusta",
+      "el",
+      "libro",
+      "rojo",
+      "más",
+      "que",
+      "el",
+      "verde."
+    ],
+    "options": [
+      "Me",
+      "gusta",
+      "el",
+      "libro",
+      "rojo",
+      "más",
+      "que",
+      "el",
+      "verde."
+    ]
+  },
+  {
+    "question": "The white computer is more expensive than the black one.",
+    "answer": "El ordenador blanco es más caro que el negro.",
+    "answerarray": [
+      "El",
+      "ordenador",
+      "blanco",
+      "es",
+      "más",
+      "caro",
+      "que",
+      "el",
+      "negro."
+    ],
+    "options": [
+      "El",
+      "ordenador",
+      "blanco",
+      "es",
+      "más",
+      "caro",
+      "que",
+      "el",
+      "negro."
+    ]
+  },
+  {
+    "question": "The restaurant is nearer the hotel than the swimming pool.",
+    "answer": "EL restaurante esta más cerca del hotel que la piscina.",
+    "answerarray": [
+      "EL",
+      "restaurante",
+      "esta",
+      "más",
+      "cerca",
+      "del",
+      "hotel",
+      "que",
+      "la",
+      "piscina."
+    ],
+    "options": [
+      "EL",
+      "restaurante",
+      "esta",
+      "más",
+      "cerca",
+      "del",
+      "hotel",
+      "que",
+      "la",
+      "piscina."
+    ]
+  },
+  {
+    "question": "less than",
+    "answer": "menos que",
+    "answerarray": [
+      "menos",
+      "que"
+    ],
+    "options": [
+      "menos",
+      "que"
+    ]
+  },
+  {
+    "question": "I eat less than you.",
+    "answer": "Como menos que tú.",
+    "answerarray": [
+      "Como",
+      "menos",
+      "que",
+      "tú."
+    ],
+    "options": [
+      "Como",
+      "menos",
+      "que",
+      "tú."
+    ]
+  },
+  {
+    "question": "I have less time today that on Saturday.",
+    "answer": "Tengo menos tiempo hoy que el sábado.",
+    "answerarray": [
+      "Tengo",
+      "menos",
+      "tiempo",
+      "hoy",
+      "que",
+      "el",
+      "sábado."
+    ],
+    "options": [
+      "Tengo",
+      "menos",
+      "tiempo",
+      "hoy",
+      "que",
+      "el",
+      "sábado."
+    ]
+  },
+  {
+    "question": "There is less beer than Coca Cola.",
+    "answer": "Hay menos cerveza que Coca Cola.",
+    "answerarray": [
+      "Hay",
+      "menos",
+      "cerveza",
+      "que",
+      "Coca",
+      "Cola."
+    ],
+    "options": [
+      "Hay",
+      "menos",
+      "cerveza",
+      "que",
+      "Coca",
+      "Cola."
+    ]
+  },
+  {
+    "question": "There are less men than women here.",
+    "answer": "Hay menos hombres que mujeres aquí.",
+    "answerarray": [
+      "Hay",
+      "menos",
+      "hombres",
+      "que",
+      "mujeres",
+      "aquí."
+    ],
+    "options": [
+      "Hay",
+      "menos",
+      "hombres",
+      "que",
+      "mujeres",
+      "aquí."
+    ]
+  },
+  {
+    "question": "I speak more Spanish than him, but less than her.",
+    "answer": "Hablo mas español que él, pero menos que ella.",
+    "answerarray": [
+      "Hablo",
+      "mas",
+      "español",
+      "que",
+      "él,",
+      "pero",
+      "menos",
+      "que",
+      "ella."
+    ],
+    "options": [
+      "Hablo",
+      "mas",
+      "español",
+      "que",
+      "él,",
+      "pero",
+      "menos",
+      "que",
+      "ella."
+    ]
+  },
+  {
+    "question": "Don't tell me now tell me later (more late).",
+    "answer": "No me digas ahora, dime más tarde.",
+    "answerarray": [
+      "No",
+      "me",
+      "digas",
+      "ahora,",
+      "dime",
+      "más",
+      "tarde."
+    ],
+    "options": [
+      "No",
+      "me",
+      "digas",
+      "ahora,",
+      "dime",
+      "más",
+      "tarde."
+    ]
+  },
+  {
+    "question": "to speak",
+    "answer": "hablar",
+    "answerarray": [
+      "hablar"
+    ],
+    "options": [
+      "hablar"
+    ]
+  },
+  {
+    "question": "Speak!",
+    "answer": "¡Habla!",
+    "answerarray": [
+      "¡Habla!"
+    ],
+    "options": [
+      "¡Habla!"
+    ]
+  },
+  {
+    "question": "Don't speak!",
+    "answer": "¡No hables!",
+    "answerarray": [
+      "¡No",
+      "hables!"
+    ],
+    "options": [
+      "¡No",
+      "hables!"
+    ]
+  },
+  {
+    "question": "to work",
+    "answer": "trabajar",
+    "answerarray": [
+      "trabajar"
+    ],
+    "options": [
+      "trabajar"
+    ]
+  },
+  {
+    "question": "Work!",
+    "answer": "¡Trabaja!",
+    "answerarray": [
+      "¡Trabaja!"
+    ],
+    "options": [
+      "¡Trabaja!"
+    ]
+  },
+  {
+    "question": "Don't work!",
+    "answer": "¡No trabajes!",
+    "answerarray": [
+      "¡No",
+      "trabajes!"
+    ],
+    "options": [
+      "¡No",
+      "trabajes!"
+    ]
+  },
+  {
+    "question": "to start",
+    "answer": "empezar",
+    "answerarray": [
+      "empezar"
+    ],
+    "options": [
+      "empezar"
+    ]
+  },
+  {
+    "question": "Start now!",
+    "answer": "¡Empieza ahora!",
+    "answerarray": [
+      "¡Empieza",
+      "ahora!"
+    ],
+    "options": [
+      "¡Empieza",
+      "ahora!"
+    ]
+  },
+  {
+    "question": "Don't start!",
+    "answer": "¡No empieces!",
+    "answerarray": [
+      "¡No",
+      "empieces!"
+    ],
+    "options": [
+      "¡No",
+      "empieces!"
+    ]
+  },
+  {
+    "question": "Call me!",
+    "answer": "¡Llámame!",
+    "answerarray": [
+      "¡Llámame!"
+    ],
+    "options": [
+      "¡Llámame!"
+    ]
+  },
+  {
+    "question": "Don't call me because I’m busy.",
+    "answer": "No me llames porque estoy ocupado/a.",
+    "answerarray": [
+      "No",
+      "me",
+      "llames",
+      "porque",
+      "estoy",
+      "ocupado/a."
+    ],
+    "options": [
+      "No",
+      "me",
+      "llames",
+      "porque",
+      "estoy",
+      "ocupado/a."
+    ]
+  },
+  {
+    "question": "Don't start if you are not ready",
+    "answer": "No empieces si no estas listo/a.",
+    "answerarray": [
+      "No",
+      "empieces",
+      "si",
+      "no",
+      "estas",
+      "listo/a."
+    ],
+    "options": [
+      "No",
+      "empieces",
+      "si",
+      "no",
+      "estas",
+      "listo/a."
+    ]
+  },
+  {
+    "question": "Don't work if you are tired.",
+    "answer": "No trabajes si estas cansado/a.",
+    "answerarray": [
+      "No",
+      "trabajes",
+      "si",
+      "estas",
+      "cansado/a."
+    ],
+    "options": [
+      "No",
+      "trabajes",
+      "si",
+      "estas",
+      "cansado/a."
+    ]
+  },
+  {
+    "question": "to come back",
+    "answer": "volver",
+    "answerarray": [
+      "volver"
+    ],
+    "options": [
+      "volver"
+    ]
+  },
+  {
+    "question": "Come back tomorrow!",
+    "answer": "¡Vuelve mañana!",
+    "answerarray": [
+      "¡Vuelve",
+      "mañana!"
+    ],
+    "options": [
+      "¡Vuelve",
+      "mañana!"
+    ]
+  },
+  {
+    "question": "Don't come back tonight!",
+    "answer": "¡No vuelvas esta noche!",
+    "answerarray": [
+      "¡No",
+      "vuelvas",
+      "esta",
+      "noche!"
+    ],
+    "options": [
+      "¡No",
+      "vuelvas",
+      "esta",
+      "noche!"
+    ]
+  },
+  {
+    "question": "to eat",
+    "answer": "comer",
+    "answerarray": [
+      "comer"
+    ],
+    "options": [
+      "comer"
+    ]
+  },
+  {
+    "question": "Eat it!",
+    "answer": "¡Cómelo!",
+    "answerarray": [
+      "¡Cómelo!"
+    ],
+    "options": [
+      "¡Cómelo!"
+    ]
+  },
+  {
+    "question": "Don't eat it!",
+    "answer": "¡No lo comas!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "comas!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "comas!"
+    ]
+  },
+  {
+    "question": "to sell",
+    "answer": "vender",
+    "answerarray": [
+      "vender"
+    ],
+    "options": [
+      "vender"
+    ]
+  },
+  {
+    "question": "Sell it!",
+    "answer": "¡Véndelo!",
+    "answerarray": [
+      "¡Véndelo!"
+    ],
+    "options": [
+      "¡Véndelo!"
+    ]
+  },
+  {
+    "question": "Don't sell it!",
+    "answer": "¡No lo vendas!",
+    "answerarray": [
+      "¡No",
+      "lo",
+      "vendas!"
+    ],
+    "options": [
+      "¡No",
+      "lo",
+      "vendas!"
+    ]
+  },
+  {
+    "question": "to write",
+    "answer": "escribir",
+    "answerarray": [
+      "escribir"
+    ],
+    "options": [
+      "escribir"
+    ]
+  },
+  {
+    "question": "Write your name here.",
+    "answer": "Escribe tu nombre aquí.",
+    "answerarray": [
+      "Escribe",
+      "tu",
+      "nombre",
+      "aquí."
+    ],
+    "options": [
+      "Escribe",
+      "tu",
+      "nombre",
+      "aquí."
+    ]
+  },
+  {
+    "question": "Don’t write it in red.",
+    "answer": "No lo escribas en rojo.",
+    "answerarray": [
+      "No",
+      "lo",
+      "escribas",
+      "en",
+      "rojo."
+    ],
+    "options": [
+      "No",
+      "lo",
+      "escribas",
+      "en",
+      "rojo."
+    ]
+  },
+  {
+    "question": "Don't eat the green one.",
+    "answer": "No comas el verde.",
+    "answerarray": [
+      "No",
+      "comas",
+      "el",
+      "verde."
+    ],
+    "options": [
+      "No",
+      "comas",
+      "el",
+      "verde."
+    ]
+  },
+  {
+    "question": "Eat the yellow one.",
+    "answer": "Come el amarillo.",
+    "answerarray": [
+      "Come",
+      "el",
+      "amarillo."
+    ],
+    "options": [
+      "Come",
+      "el",
+      "amarillo."
+    ]
+  },
+  {
+    "question": "Don't put the red one on the table.",
+    "answer": "No pongas el rojo en la mesa.",
+    "answerarray": [
+      "No",
+      "pongas",
+      "el",
+      "rojo",
+      "en",
+      "la",
+      "mesa."
+    ],
+    "options": [
+      "No",
+      "pongas",
+      "el",
+      "rojo",
+      "en",
+      "la",
+      "mesa."
+    ]
+  },
+  {
+    "question": "the (plural)",
+    "answer": "los/las",
+    "answerarray": [
+      "los/las"
+    ],
+    "options": [
+      "los/las"
+    ]
+  },
+  {
+    "question": "the chairs",
+    "answer": "las sillas",
+    "answerarray": [
+      "las",
+      "sillas"
+    ],
+    "options": [
+      "las",
+      "sillas"
+    ]
+  },
+  {
+    "question": "the cars",
+    "answer": "los carros",
+    "answerarray": [
+      "los",
+      "carros"
+    ],
+    "options": [
+      "los",
+      "carros"
+    ]
+  },
+  {
+    "question": "Put the chairs on the table.",
+    "answer": "Pon las sillas en la mesa.",
+    "answerarray": [
+      "Pon",
+      "las",
+      "sillas",
+      "en",
+      "la",
+      "mesa."
+    ],
+    "options": [
+      "Pon",
+      "las",
+      "sillas",
+      "en",
+      "la",
+      "mesa."
+    ]
+  },
+  {
+    "question": "Don't speak to the men.",
+    "answer": "No hables con los hombres.",
+    "answerarray": [
+      "No",
+      "hables",
+      "con",
+      "los",
+      "hombres."
+    ],
+    "options": [
+      "No",
+      "hables",
+      "con",
+      "los",
+      "hombres."
+    ]
+  },
+  {
+    "question": "The women are coming next week.",
+    "answer": "Las mujeres vienen la semana que viene.",
+    "answerarray": [
+      "Las",
+      "mujeres",
+      "vienen",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Las",
+      "mujeres",
+      "vienen",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "The women eat less than the men.",
+    "answer": "Las mujeres comen menos que los hombres.",
+    "answerarray": [
+      "Las",
+      "mujeres",
+      "comen",
+      "menos",
+      "que",
+      "los",
+      "hombres."
+    ],
+    "options": [
+      "Las",
+      "mujeres",
+      "comen",
+      "menos",
+      "que",
+      "los",
+      "hombres."
+    ]
+  },
+  {
+    "question": "the red cars",
+    "answer": "los coches rojos",
+    "answerarray": [
+      "los",
+      "coches",
+      "rojos"
+    ],
+    "options": [
+      "los",
+      "coches",
+      "rojos"
+    ]
+  },
+  {
+    "question": "the red chairs",
+    "answer": "las sillas rojas",
+    "answerarray": [
+      "las",
+      "sillas",
+      "rojas"
+    ],
+    "options": [
+      "las",
+      "sillas",
+      "rojas"
+    ]
+  },
+  {
+    "question": "the important women",
+    "answer": "las mujeres importantes",
+    "answerarray": [
+      "las",
+      "mujeres",
+      "importantes"
+    ],
+    "options": [
+      "las",
+      "mujeres",
+      "importantes"
+    ]
+  },
+  {
+    "question": "the big tables",
+    "answer": "las mesas grandes",
+    "answerarray": [
+      "las",
+      "mesas",
+      "grandes"
+    ],
+    "options": [
+      "las",
+      "mesas",
+      "grandes"
+    ]
+  },
+  {
+    "question": "The yellow chairs are next to the small tables.",
+    "answer": "Las sillas amarillas están al lado de las mesas pequeñas.",
+    "answerarray": [
+      "Las",
+      "sillas",
+      "amarillas",
+      "están",
+      "al",
+      "lado",
+      "de",
+      "las",
+      "mesas",
+      "pequeñas."
+    ],
+    "options": [
+      "Las",
+      "sillas",
+      "amarillas",
+      "están",
+      "al",
+      "lado",
+      "de",
+      "las",
+      "mesas",
+      "pequeñas."
+    ]
+  },
+  {
+    "question": "Do it once, but don’t do it twice.",
+    "answer": "Hazlo una vez, pero no lo hagas dos veces.",
+    "answerarray": [
+      "Hazlo",
+      "una",
+      "vez,",
+      "pero",
+      "no",
+      "lo",
+      "hagas",
+      "dos",
+      "veces."
+    ],
+    "options": [
+      "Hazlo",
+      "una",
+      "vez,",
+      "pero",
+      "no",
+      "lo",
+      "hagas",
+      "dos",
+      "veces."
+    ]
+  },
+  {
+    "question": "Say it twice, but don’t say it three times.",
+    "answer": "Dilo dos veces, pero no lo digas tres veces.",
+    "answerarray": [
+      "Dilo",
+      "dos",
+      "veces,",
+      "pero",
+      "no",
+      "lo",
+      "digas",
+      "tres",
+      "veces."
+    ],
+    "options": [
+      "Dilo",
+      "dos",
+      "veces,",
+      "pero",
+      "no",
+      "lo",
+      "digas",
+      "tres",
+      "veces."
+    ]
+  },
+  {
+    "question": "a thing",
+    "answer": "una cosa",
+    "answerarray": [
+      "una",
+      "cosa"
+    ],
+    "options": [
+      "una",
+      "cosa"
+    ]
+  },
+  {
+    "question": "What's that thing?",
+    "answer": "¿Qué es esa cosa?",
+    "answerarray": [
+      "¿Qué",
+      "es",
+      "esa",
+      "cosa?"
+    ],
+    "options": [
+      "¿Qué",
+      "es",
+      "esa",
+      "cosa?"
+    ]
+  },
+  {
+    "question": "There are three things that I want to tell you.",
+    "answer": "Hay tres cosas que quiero decirte.",
+    "answerarray": [
+      "Hay",
+      "tres",
+      "cosas",
+      "que",
+      "quiero",
+      "decirte."
+    ],
+    "options": [
+      "Hay",
+      "tres",
+      "cosas",
+      "que",
+      "quiero",
+      "decirte."
+    ]
+  },
+  {
+    "question": "I only do the important things.",
+    "answer": "Solo hago las cosas importantes.",
+    "answerarray": [
+      "Solo",
+      "hago",
+      "las",
+      "cosas",
+      "importantes."
+    ],
+    "options": [
+      "Solo",
+      "hago",
+      "las",
+      "cosas",
+      "importantes."
+    ]
+  },
+  {
+    "question": "some, a few",
+    "answer": "unos, unas",
+    "answerarray": [
+      "unos,",
+      "unas"
+    ],
+    "options": [
+      "unos,",
+      "unas"
+    ]
+  },
+  {
+    "question": "a few things",
+    "answer": "unas cosas",
+    "answerarray": [
+      "unas",
+      "cosas"
+    ],
+    "options": [
+      "unas",
+      "cosas"
+    ]
+  },
+  {
+    "question": "I have a few things in the car.",
+    "answer": "Tengo unas cosas en el coche.",
+    "answerarray": [
+      "Tengo",
+      "unas",
+      "cosas",
+      "en",
+      "el",
+      "coche."
+    ],
+    "options": [
+      "Tengo",
+      "unas",
+      "cosas",
+      "en",
+      "el",
+      "coche."
+    ]
+  },
+  {
+    "question": "I’m putting a few things behind the table.",
+    "answer": "Estoy poniendo/pongo unas cosas detrás de la mesa.",
+    "answerarray": [
+      "Estoy",
+      "poniendo/pongo",
+      "unas",
+      "cosas",
+      "detrás",
+      "de",
+      "la",
+      "mesa."
+    ],
+    "options": [
+      "Estoy",
+      "poniendo/pongo",
+      "unas",
+      "cosas",
+      "detrás",
+      "de",
+      "la",
+      "mesa."
+    ]
+  },
+  {
+    "question": "a few days",
+    "answer": "unos días",
+    "answerarray": [
+      "unos",
+      "días"
+    ],
+    "options": [
+      "unos",
+      "días"
+    ]
+  },
+  {
+    "question": "I'm going to do it in a few days.",
+    "answer": "Voy a hacerlo en unos días.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "hacerlo",
+      "en",
+      "unos",
+      "días."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "hacerlo",
+      "en",
+      "unos",
+      "días."
+    ]
+  },
+  {
+    "question": "We are going to be here a few weeks.",
+    "answer": "Vamos a estar aquí unas semanas.",
+    "answerarray": [
+      "Vamos",
+      "a",
+      "estar",
+      "aquí",
+      "unas",
+      "semanas."
+    ],
+    "options": [
+      "Vamos",
+      "a",
+      "estar",
+      "aquí",
+      "unas",
+      "semanas."
+    ]
+  },
+  {
+    "question": "They are going to stay in Barcelona (for) a few hours",
+    "answer": "Van a quedarse en Barcelona unas horas.",
+    "answerarray": [
+      "Van",
+      "a",
+      "quedarse",
+      "en",
+      "Barcelona",
+      "unas",
+      "horas."
+    ],
+    "options": [
+      "Van",
+      "a",
+      "quedarse",
+      "en",
+      "Barcelona",
+      "unas",
+      "horas."
+    ]
+  },
+  {
+    "question": "The women are staying here a few days more.",
+    "answer": "Las mujeres se quedan aquí unos días más.",
+    "answerarray": [
+      "Las",
+      "mujeres",
+      "se",
+      "quedan",
+      "aquí",
+      "unos",
+      "días",
+      "más."
+    ],
+    "options": [
+      "Las",
+      "mujeres",
+      "se",
+      "quedan",
+      "aquí",
+      "unos",
+      "días",
+      "más."
+    ]
+  },
+  {
+    "question": "you (polite)",
+    "answer": "usted",
+    "answerarray": [
+      "usted"
+    ],
+    "options": [
+      "usted"
+    ]
+  },
+  {
+    "question": "Can you tell me where the beech is?",
+    "answer": "¿Puede (usted) decirme dónde está la playa?",
+    "answerarray": [
+      "¿Puede",
+      "(usted)",
+      "decirme",
+      "dónde",
+      "está",
+      "la",
+      "playa?"
+    ],
+    "options": [
+      "¿Puede",
+      "(usted)",
+      "decirme",
+      "dónde",
+      "está",
+      "la",
+      "playa?"
+    ]
+  },
+  {
+    "question": "sir/madam",
+    "answer": "señor/señora",
+    "answerarray": [
+      "señor/señora"
+    ],
+    "options": [
+      "señor/señora"
+    ]
+  },
+  {
+    "question": "Excuse me.",
+    "answer": "perdón/perdone",
+    "answerarray": [
+      "perdón/perdone"
+    ],
+    "options": [
+      "perdón/perdone"
+    ]
+  },
+  {
+    "question": "Excuse me, madam, Do you know where there is a bank?",
+    "answer": "Perdón, señora. ¿Sabe dónde hay un banco?",
+    "answerarray": [
+      "Perdón,",
+      "señora.",
+      "¿Sabe",
+      "dónde",
+      "hay",
+      "un",
+      "banco?"
+    ],
+    "options": [
+      "Perdón,",
+      "señora.",
+      "¿Sabe",
+      "dónde",
+      "hay",
+      "un",
+      "banco?"
+    ]
+  },
+  {
+    "question": "a train",
+    "answer": "un tren",
+    "answerarray": [
+      "un",
+      "tren"
+    ],
+    "options": [
+      "un",
+      "tren"
+    ]
+  },
+  {
+    "question": "a bus",
+    "answer": "un autobús",
+    "answerarray": [
+      "un",
+      "autobús"
+    ],
+    "options": [
+      "un",
+      "autobús"
+    ]
+  },
+  {
+    "question": "Excuse me, sir. Do you know at what time the bus leaves?",
+    "answer": "Perdón, señor. ¿Sabe a qué hora sale el bus?",
+    "answerarray": [
+      "Perdón,",
+      "señor.",
+      "¿Sabe",
+      "a",
+      "qué",
+      "hora",
+      "sale",
+      "el",
+      "bus?"
+    ],
+    "options": [
+      "Perdón,",
+      "señor.",
+      "¿Sabe",
+      "a",
+      "qué",
+      "hora",
+      "sale",
+      "el",
+      "bus?"
+    ]
+  },
+  {
+    "question": "Excuse me, madam. Can you tell me when the train arrives?",
+    "answer": "Perdón, señora. ¿Puede decirme cuando llega el tren?",
+    "answerarray": [
+      "Perdón,",
+      "señora.",
+      "¿Puede",
+      "decirme",
+      "cuando",
+      "llega",
+      "el",
+      "tren?"
+    ],
+    "options": [
+      "Perdón,",
+      "señora.",
+      "¿Puede",
+      "decirme",
+      "cuando",
+      "llega",
+      "el",
+      "tren?"
+    ]
+  },
+  {
+    "question": "Is there a train that goes to Valencia today?",
+    "answer": "¿Hay un tren que va a Valencia hoy?",
+    "answerarray": [
+      "¿Hay",
+      "un",
+      "tren",
+      "que",
+      "va",
+      "a",
+      "Valencia",
+      "hoy?"
+    ],
+    "options": [
+      "¿Hay",
+      "un",
+      "tren",
+      "que",
+      "va",
+      "a",
+      "Valencia",
+      "hoy?"
+    ]
+  },
+  {
+    "question": "There are fewer buses on Sunday than on Saturday.",
+    "answer": "Hay menos buses el domingo que el sábado.",
+    "answerarray": [
+      "Hay",
+      "menos",
+      "buses",
+      "el",
+      "domingo",
+      "que",
+      "el",
+      "sábado."
+    ],
+    "options": [
+      "Hay",
+      "menos",
+      "buses",
+      "el",
+      "domingo",
+      "que",
+      "el",
+      "sábado."
+    ]
+  },
+  {
+    "question": "in the morning, afternoon, evening",
+    "answer": "por la mañana, tarde, noche",
+    "answerarray": [
+      "por",
+      "la",
+      "mañana,",
+      "tarde,",
+      "noche"
+    ],
+    "options": [
+      "por",
+      "la",
+      "mañana,",
+      "tarde,",
+      "noche"
+    ]
+  },
+  {
+    "question": "There is a bus in the morning.",
+    "answer": "Hay un bus por la mañana.",
+    "answerarray": [
+      "Hay",
+      "un",
+      "bus",
+      "por",
+      "la",
+      "mañana."
+    ],
+    "options": [
+      "Hay",
+      "un",
+      "bus",
+      "por",
+      "la",
+      "mañana."
+    ]
+  },
+  {
+    "question": "Is there a train in the afternoon?",
+    "answer": "¿Hay un tren por la tarde?",
+    "answerarray": [
+      "¿Hay",
+      "un",
+      "tren",
+      "por",
+      "la",
+      "tarde?"
+    ],
+    "options": [
+      "¿Hay",
+      "un",
+      "tren",
+      "por",
+      "la",
+      "tarde?"
+    ]
+  },
+  {
+    "question": "There aren't (any) buses at night.",
+    "answer": "No hay buses por la noche.",
+    "answerarray": [
+      "No",
+      "hay",
+      "buses",
+      "por",
+      "la",
+      "noche."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "buses",
+      "por",
+      "la",
+      "noche."
+    ]
+  },
+  {
+    "question": "a plane",
+    "answer": "un avion",
+    "answerarray": [
+      "un",
+      "avion"
+    ],
+    "options": [
+      "un",
+      "avion"
+    ]
+  },
+  {
+    "question": "At what time does your plane leave?",
+    "answer": "¿A qué hora sale tu avión?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "tu",
+      "avión?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "tu",
+      "avión?"
+    ]
+  },
+  {
+    "question": "At what time does her plane leave?",
+    "answer": "¿A qué hora sale su avión?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "su",
+      "avión?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "su",
+      "avión?"
+    ]
+  },
+  {
+    "question": "At what time does his plane leave?",
+    "answer": "¿A qué hora sale su avión?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "su",
+      "avión?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "su",
+      "avión?"
+    ]
+  },
+  {
+    "question": "your (formal)",
+    "answer": "su",
+    "answerarray": [
+      "su"
+    ],
+    "options": [
+      "su"
+    ]
+  },
+  {
+    "question": "At what time does your (formal) plane leave?",
+    "answer": "¿A qué hora sale su avión?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "su",
+      "avión?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "sale",
+      "su",
+      "avión?"
+    ]
+  },
+  {
+    "question": "Your (formal) train arrives in the morning.",
+    "answer": "Su tren llega por la mañana.",
+    "answerarray": [
+      "Su",
+      "tren",
+      "llega",
+      "por",
+      "la",
+      "mañana."
+    ],
+    "options": [
+      "Su",
+      "tren",
+      "llega",
+      "por",
+      "la",
+      "mañana."
+    ]
+  },
+  {
+    "question": "There is nothing in your (formal) car.",
+    "answer": "No hay nada en su coche.",
+    "answerarray": [
+      "No",
+      "hay",
+      "nada",
+      "en",
+      "su",
+      "coche."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "nada",
+      "en",
+      "su",
+      "coche."
+    ]
+  },
+  {
+    "question": "There are a few things in your room, madam.",
+    "answer": "Hay unas cosas en su habitación, señora.",
+    "answerarray": [
+      "Hay",
+      "unas",
+      "cosas",
+      "en",
+      "su",
+      "habitación,",
+      "señora."
+    ],
+    "options": [
+      "Hay",
+      "unas",
+      "cosas",
+      "en",
+      "su",
+      "habitación,",
+      "señora."
+    ]
+  },
+  {
+    "question": "There’s a plane that goes to Mallorca next week.",
+    "answer": "Hay un avión que va a Mallorca la semana que viene.",
+    "answerarray": [
+      "Hay",
+      "un",
+      "avión",
+      "que",
+      "va",
+      "a",
+      "Mallorca",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ],
+    "options": [
+      "Hay",
+      "un",
+      "avión",
+      "que",
+      "va",
+      "a",
+      "Mallorca",
+      "la",
+      "semana",
+      "que",
+      "viene."
+    ]
+  },
+  {
+    "question": "There is a train that goes to Alicante in the morning.",
+    "answer": "Hay un tren que va a Alicante por la mañana.",
+    "answerarray": [
+      "Hay",
+      "un",
+      "tren",
+      "que",
+      "va",
+      "a",
+      "Alicante",
+      "por",
+      "la",
+      "mañana."
+    ],
+    "options": [
+      "Hay",
+      "un",
+      "tren",
+      "que",
+      "va",
+      "a",
+      "Alicante",
+      "por",
+      "la",
+      "mañana."
+    ]
+  },
+  {
+    "question": "This method is very difficult.",
+    "answer": "Este método es muy difícil.",
+    "answerarray": [
+      "Este",
+      "método",
+      "es",
+      "muy",
+      "difícil."
+    ],
+    "options": [
+      "Este",
+      "método",
+      "es",
+      "muy",
+      "difícil."
+    ]
+  },
+  {
+    "question": "I find it easy but it goes too slowly.",
+    "answer": "Lo encuentro fácil pero va demasiado despacio.",
+    "answerarray": [
+      "Lo",
+      "encuentro",
+      "fácil",
+      "pero",
+      "va",
+      "demasiado",
+      "despacio."
+    ],
+    "options": [
+      "Lo",
+      "encuentro",
+      "fácil",
+      "pero",
+      "va",
+      "demasiado",
+      "despacio."
+    ]
+  },
+  {
+    "question": "It's too fast for me.",
+    "answer": "Es demasiado rápido para mí.",
+    "answerarray": [
+      "Es",
+      "demasiado",
+      "rápido",
+      "para",
+      "mí."
+    ],
+    "options": [
+      "Es",
+      "demasiado",
+      "rápido",
+      "para",
+      "mí."
+    ]
+  },
+  {
+    "question": "Thank you very much.",
+    "answer": "Muchas gracias.",
+    "answerarray": [
+      "Muchas",
+      "gracias."
+    ],
+    "options": [
+      "Muchas",
+      "gracias."
+    ]
+  },
+  {
+    "question": "See you soon!",
+    "answer": "¡Hasta pronto!",
+    "answerarray": [
+      "¡Hasta",
+      "pronto!"
+    ],
+    "options": [
+      "¡Hasta",
+      "pronto!"
+    ]
+  },
+  {
+    "question": "I’m doing",
+    "answer": "estoy haciendo",
+    "answerarray": [
+      "estoy",
+      "haciendo"
+    ],
+    "options": [
+      "estoy",
+      "haciendo"
+    ]
+  },
+  {
+    "question": "I’m leaving/going out",
+    "answer": "estoy saliendo",
+    "answerarray": [
+      "estoy",
+      "saliendo"
+    ],
+    "options": [
+      "estoy",
+      "saliendo"
+    ]
+  },
+  {
+    "question": "I’m speaking",
+    "answer": "estoy hablando",
+    "answerarray": [
+      "estoy",
+      "hablando"
+    ],
+    "options": [
+      "estoy",
+      "hablando"
+    ]
+  },
+  {
+    "question": "I'm leaving now.",
+    "answer": "Estoy saliendo ahora.",
+    "answerarray": [
+      "Estoy",
+      "saliendo",
+      "ahora."
+    ],
+    "options": [
+      "Estoy",
+      "saliendo",
+      "ahora."
+    ]
+  },
+  {
+    "question": "I'm putting the chair on the table.",
+    "answer": "Estoy poniendo la silla en la mesa.",
+    "answerarray": [
+      "Estoy",
+      "poniendo",
+      "la",
+      "silla",
+      "en",
+      "la",
+      "mesa."
+    ],
+    "options": [
+      "Estoy",
+      "poniendo",
+      "la",
+      "silla",
+      "en",
+      "la",
+      "mesa."
+    ]
+  },
+  {
+    "question": "¿Are you having lunch now?",
+    "answer": "¿Estás comiendo ahora?",
+    "answerarray": [
+      "¿Estás",
+      "comiendo",
+      "ahora?"
+    ],
+    "options": [
+      "¿Estás",
+      "comiendo",
+      "ahora?"
+    ]
+  },
+  {
+    "question": "It's starting now.",
+    "answer": "Está empezando ahora",
+    "answerarray": [
+      "Está",
+      "empezando",
+      "ahora"
+    ],
+    "options": [
+      "Está",
+      "empezando",
+      "ahora"
+    ]
+  },
+  {
+    "question": "What are you doing?",
+    "answer": "¿Qué estás haciendo?",
+    "answerarray": [
+      "¿Qué",
+      "estás",
+      "haciendo?"
+    ],
+    "options": [
+      "¿Qué",
+      "estás",
+      "haciendo?"
+    ]
+  },
+  {
+    "question": "What are you saying?",
+    "answer": "¿Qué estás diciendo?",
+    "answerarray": [
+      "¿Qué",
+      "estás",
+      "diciendo?"
+    ],
+    "options": [
+      "¿Qué",
+      "estás",
+      "diciendo?"
+    ]
+  },
+  {
+    "question": "…what…",
+    "answer": "…lo que…",
+    "answerarray": [
+      "…lo",
+      "que…"
+    ],
+    "options": [
+      "…lo",
+      "que…"
+    ]
+  },
+  {
+    "question": "I'm sorry but I don’t understand what you are saying.",
+    "answer": "Lo siento pero no entiendo lo que estás diciendo.",
+    "answerarray": [
+      "Lo",
+      "siento",
+      "pero",
+      "no",
+      "entiendo",
+      "lo",
+      "que",
+      "estás",
+      "diciendo."
+    ],
+    "options": [
+      "Lo",
+      "siento",
+      "pero",
+      "no",
+      "entiendo",
+      "lo",
+      "que",
+      "estás",
+      "diciendo."
+    ]
+  },
+  {
+    "question": "I don't know what you want,",
+    "answer": "No sé lo que quieres.",
+    "answerarray": [
+      "No",
+      "sé",
+      "lo",
+      "que",
+      "quieres."
+    ],
+    "options": [
+      "No",
+      "sé",
+      "lo",
+      "que",
+      "quieres."
+    ]
+  },
+  {
+    "question": "It's not what I want.",
+    "answer": "No es lo que quiero.",
+    "answerarray": [
+      "No",
+      "es",
+      "lo",
+      "que",
+      "quiero."
+    ],
+    "options": [
+      "No",
+      "es",
+      "lo",
+      "que",
+      "quiero."
+    ]
+  },
+  {
+    "question": "I can’t find what I want here.",
+    "answer": "No puedo encontrar lo que quiero aquí.",
+    "answerarray": [
+      "No",
+      "puedo",
+      "encontrar",
+      "lo",
+      "que",
+      "quiero",
+      "aquí."
+    ],
+    "options": [
+      "No",
+      "puedo",
+      "encontrar",
+      "lo",
+      "que",
+      "quiero",
+      "aquí."
+    ]
+  },
+  {
+    "question": "What do you want to say?",
+    "answer": "¿Qué quieres decir?",
+    "answerarray": [
+      "¿Qué",
+      "quieres",
+      "decir?"
+    ],
+    "options": [
+      "¿Qué",
+      "quieres",
+      "decir?"
+    ]
+  },
+  {
+    "question": "What do you mean?",
+    "answer": "¿Qué quieres decir?",
+    "answerarray": [
+      "¿Qué",
+      "quieres",
+      "decir?"
+    ],
+    "options": [
+      "¿Qué",
+      "quieres",
+      "decir?"
+    ]
+  },
+  {
+    "question": "I don't understand very well what you mean.",
+    "answer": "No entiendo muy bien lo que quieres decir.",
+    "answerarray": [
+      "No",
+      "entiendo",
+      "muy",
+      "bien",
+      "lo",
+      "que",
+      "quieres",
+      "decir."
+    ],
+    "options": [
+      "No",
+      "entiendo",
+      "muy",
+      "bien",
+      "lo",
+      "que",
+      "quieres",
+      "decir."
+    ]
+  },
+  {
+    "question": "I'm sure (that) you don’t know what I mean.",
+    "answer": "Estoy seguro que no sabes lo que quiero decir.",
+    "answerarray": [
+      "Estoy",
+      "seguro",
+      "que",
+      "no",
+      "sabes",
+      "lo",
+      "que",
+      "quiero",
+      "decir."
+    ],
+    "options": [
+      "Estoy",
+      "seguro",
+      "que",
+      "no",
+      "sabes",
+      "lo",
+      "que",
+      "quiero",
+      "decir."
+    ]
+  },
+  {
+    "question": "to arrive/to get to",
+    "answer": "llegar",
+    "answerarray": [
+      "llegar"
+    ],
+    "options": [
+      "llegar"
+    ]
+  },
+  {
+    "question": "I am arriving now.",
+    "answer": "Estoy llegando ahora.",
+    "answerarray": [
+      "Estoy",
+      "llegando",
+      "ahora."
+    ],
+    "options": [
+      "Estoy",
+      "llegando",
+      "ahora."
+    ]
+  },
+  {
+    "question": "at one o’clock",
+    "answer": "a la una",
+    "answerarray": [
+      "a",
+      "la",
+      "una"
+    ],
+    "options": [
+      "a",
+      "la",
+      "una"
+    ]
+  },
+  {
+    "question": "At what time do you arrive?",
+    "answer": "¿A qué hora llegas?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "llegas?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "llegas?"
+    ]
+  },
+  {
+    "question": "I arrive at one o’clock.",
+    "answer": "Llego a la una.",
+    "answerarray": [
+      "Llego",
+      "a",
+      "la",
+      "una."
+    ],
+    "options": [
+      "Llego",
+      "a",
+      "la",
+      "una."
+    ]
+  },
+  {
+    "question": "at two o’clock",
+    "answer": "a las dos",
+    "answerarray": [
+      "a",
+      "las",
+      "dos"
+    ],
+    "options": [
+      "a",
+      "las",
+      "dos"
+    ]
+  },
+  {
+    "question": "At what time does he arrive?",
+    "answer": "¿A qué hora llega?",
+    "answerarray": [
+      "¿A",
+      "qué",
+      "hora",
+      "llega?"
+    ],
+    "options": [
+      "¿A",
+      "qué",
+      "hora",
+      "llega?"
+    ]
+  },
+  {
+    "question": "He arrives at two o’clock.",
+    "answer": "Llega a las dos.",
+    "answerarray": [
+      "Llega",
+      "a",
+      "las",
+      "dos."
+    ],
+    "options": [
+      "Llega",
+      "a",
+      "las",
+      "dos."
+    ]
+  },
+  {
+    "question": "Does she arrive at two o’clock or at three o’clock?",
+    "answer": "¿Llega a las dos o a las tres?",
+    "answerarray": [
+      "¿Llega",
+      "a",
+      "las",
+      "dos",
+      "o",
+      "a",
+      "las",
+      "tres?"
+    ],
+    "options": [
+      "¿Llega",
+      "a",
+      "las",
+      "dos",
+      "o",
+      "a",
+      "las",
+      "tres?"
+    ]
+  },
+  {
+    "question": "I think (that) he she arrives at four o’clock.",
+    "answer": "Pienso que llega a las cuatro.",
+    "answerarray": [
+      "Pienso",
+      "que",
+      "llega",
+      "a",
+      "las",
+      "cuatro."
+    ],
+    "options": [
+      "Pienso",
+      "que",
+      "llega",
+      "a",
+      "las",
+      "cuatro."
+    ]
+  },
+  {
+    "question": "I find that it’s not easy to get (arrive) to your house.",
+    "answer": "Encuentro que no es fácil llegar a tu casa.",
+    "answerarray": [
+      "Encuentro",
+      "que",
+      "no",
+      "es",
+      "fácil",
+      "llegar",
+      "a",
+      "tu",
+      "casa."
+    ],
+    "options": [
+      "Encuentro",
+      "que",
+      "no",
+      "es",
+      "fácil",
+      "llegar",
+      "a",
+      "tu",
+      "casa."
+    ]
+  },
+  {
+    "question": "something",
+    "answer": "algo",
+    "answerarray": [
+      "algo"
+    ],
+    "options": [
+      "algo"
+    ]
+  },
+  {
+    "question": "nothing",
+    "answer": "nada",
+    "answerarray": [
+      "nada"
+    ],
+    "options": [
+      "nada"
+    ]
+  },
+  {
+    "question": "There is something blue on the table.",
+    "answer": "Hay algo azul en la mesa.",
+    "answerarray": [
+      "Hay",
+      "algo",
+      "azul",
+      "en",
+      "la",
+      "mesa."
+    ],
+    "options": [
+      "Hay",
+      "algo",
+      "azul",
+      "en",
+      "la",
+      "mesa."
+    ]
+  },
+  {
+    "question": "Nothing is going to be ready today.",
+    "answer": "Nada va a estar listo hoy.",
+    "answerarray": [
+      "Nada",
+      "va",
+      "a",
+      "estar",
+      "listo",
+      "hoy."
+    ],
+    "options": [
+      "Nada",
+      "va",
+      "a",
+      "estar",
+      "listo",
+      "hoy."
+    ]
+  },
+  {
+    "question": "There is nothing in the room.",
+    "answer": "No hay nada en la habitación.",
+    "answerarray": [
+      "No",
+      "hay",
+      "nada",
+      "en",
+      "la",
+      "habitación."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "nada",
+      "en",
+      "la",
+      "habitación."
+    ]
+  },
+  {
+    "question": "There is nothing in the house.",
+    "answer": "No hay nada en la casa.",
+    "answerarray": [
+      "No",
+      "hay",
+      "nada",
+      "en",
+      "la",
+      "casa."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "nada",
+      "en",
+      "la",
+      "casa."
+    ]
+  },
+  {
+    "question": "There is nothing that I want to do here.",
+    "answer": "No hay nada que quiero hacer aquí.",
+    "answerarray": [
+      "No",
+      "hay",
+      "nada",
+      "que",
+      "quiero",
+      "hacer",
+      "aquí."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "nada",
+      "que",
+      "quiero",
+      "hacer",
+      "aquí."
+    ]
+  },
+  {
+    "question": "I don't want to do anything.",
+    "answer": "No quiero hacer nada.",
+    "answerarray": [
+      "No",
+      "quiero",
+      "hacer",
+      "nada."
+    ],
+    "options": [
+      "No",
+      "quiero",
+      "hacer",
+      "nada."
+    ]
+  },
+  {
+    "question": "I'm going to say something important.",
+    "answer": "Voy a decir algo importante.",
+    "answerarray": [
+      "Voy",
+      "a",
+      "decir",
+      "algo",
+      "importante."
+    ],
+    "options": [
+      "Voy",
+      "a",
+      "decir",
+      "algo",
+      "importante."
+    ]
+  },
+  {
+    "question": "in front of",
+    "answer": "delante de",
+    "answerarray": [
+      "delante",
+      "de"
+    ],
+    "options": [
+      "delante",
+      "de"
+    ]
+  },
+  {
+    "question": "behind",
+    "answer": "detrás de",
+    "answerarray": [
+      "detrás",
+      "de"
+    ],
+    "options": [
+      "detrás",
+      "de"
+    ]
+  },
+  {
+    "question": "There is something behind the house.",
+    "answer": "Hay algo detrás de la casa.",
+    "answerarray": [
+      "Hay",
+      "algo",
+      "detrás",
+      "de",
+      "la",
+      "casa."
+    ],
+    "options": [
+      "Hay",
+      "algo",
+      "detrás",
+      "de",
+      "la",
+      "casa."
+    ]
+  },
+  {
+    "question": "There is something in front of car.",
+    "answer": "Hay algo delante del coche.",
+    "answerarray": [
+      "Hay",
+      "algo",
+      "delante",
+      "del",
+      "coche."
+    ],
+    "options": [
+      "Hay",
+      "algo",
+      "delante",
+      "del",
+      "coche."
+    ]
+  },
+  {
+    "question": "There is nothing behind the woman.",
+    "answer": "No hay nada detrás de la mujer.",
+    "answerarray": [
+      "No",
+      "hay",
+      "nada",
+      "detrás",
+      "de",
+      "la",
+      "mujer."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "nada",
+      "detrás",
+      "de",
+      "la",
+      "mujer."
+    ]
+  },
+  {
+    "question": "There's nothing in front of the man.",
+    "answer": "No hay nada delante del hombre.",
+    "answerarray": [
+      "No",
+      "hay",
+      "nada",
+      "delante",
+      "del",
+      "hombre."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "nada",
+      "delante",
+      "del",
+      "hombre."
+    ]
+  },
+  {
+    "question": "Is there something in the room?",
+    "answer": "¿Hay algo en la habitación?",
+    "answerarray": [
+      "¿Hay",
+      "algo",
+      "en",
+      "la",
+      "habitación?"
+    ],
+    "options": [
+      "¿Hay",
+      "algo",
+      "en",
+      "la",
+      "habitación?"
+    ]
+  },
+  {
+    "question": "a market",
+    "answer": "un mercado",
+    "answerarray": [
+      "un",
+      "mercado"
+    ],
+    "options": [
+      "un",
+      "mercado"
+    ]
+  },
+  {
+    "question": "a supermarket",
+    "answer": "un supermercado",
+    "answerarray": [
+      "un",
+      "supermercado"
+    ],
+    "options": [
+      "un",
+      "supermercado"
+    ]
+  },
+  {
+    "question": "a restaurant",
+    "answer": "un restaurante",
+    "answerarray": [
+      "un",
+      "restaurante"
+    ],
+    "options": [
+      "un",
+      "restaurante"
+    ]
+  },
+  {
+    "question": "There is a supermarket near the restaurant.",
+    "answer": "Hay un supermercado cerca del restaurante.",
+    "answerarray": [
+      "Hay",
+      "un",
+      "supermercado",
+      "cerca",
+      "del",
+      "restaurante."
+    ],
+    "options": [
+      "Hay",
+      "un",
+      "supermercado",
+      "cerca",
+      "del",
+      "restaurante."
+    ]
+  },
+  {
+    "question": "There isn’t a market near the hotel.",
+    "answer": "No hay un mercado cerca del hotel.",
+    "answerarray": [
+      "No",
+      "hay",
+      "un",
+      "mercado",
+      "cerca",
+      "del",
+      "hotel."
+    ],
+    "options": [
+      "No",
+      "hay",
+      "un",
+      "mercado",
+      "cerca",
+      "del",
+      "hotel."
+    ]
+  },
+  {
+    "question": "There are two supermarkets behind my house.",
+    "answer": "Hay dos supermercados detrás de mi casa.",
+    "answerarray": [
+      "Hay",
+      "dos",
+      "supermercados",
+      "detrás",
+      "de",
+      "mi",
+      "casa."
+    ],
+    "options": [
+      "Hay",
+      "dos",
+      "supermercados",
+      "detrás",
+      "de",
+      "mi",
+      "casa."
+    ]
+  },
+  {
+    "question": "It's in front of the restaurant.",
+    "answer": "Está delante del restaurante.",
+    "answerarray": [
+      "Está",
+      "delante",
+      "del",
+      "restaurante."
+    ],
+    "options": [
+      "Está",
+      "delante",
+      "del",
+      "restaurante."
+    ]
+  },
+  {
+    "question": "Don't put your car in front of the market.",
+    "answer": "No pongas tu coche delante del mercado.",
+    "answerarray": [
+      "No",
+      "pongas",
+      "tu",
+      "coche",
+      "delante",
+      "del",
+      "mercado."
+    ],
+    "options": [
+      "No",
+      "pongas",
+      "tu",
+      "coche",
+      "delante",
+      "del",
+      "mercado."
+    ]
+  },
+  {
+    "question": "Put it behind the hotel.",
+    "answer": "Ponlo detrás del hotel.",
+    "answerarray": [
+      "Ponlo",
+      "detrás",
+      "del",
+      "hotel."
+    ],
+    "options": [
+      "Ponlo",
+      "detrás",
+      "del",
+      "hotel."
+    ]
+  },
+  {
+    "question": "I think there is a cash machine in front of the bank.",
+    "answer": "Pienso que hay un cajero automático delante del banco.",
+    "answerarray": [
+      "Pienso",
+      "que",
+      "hay",
+      "un",
+      "cajero",
+      "automático",
+      "delante",
+      "del",
+      "banco."
+    ],
+    "options": [
+      "Pienso",
+      "que",
+      "hay",
+      "un",
+      "cajero",
+      "automático",
+      "delante",
+      "del",
+      "banco."
+    ]
+  }
+]
